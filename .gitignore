@@ -1,0 +1,27 @@
+# Python cache
+
+__pycache__/
+*.py[cod]
+
+# Packaging artifacts
+
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+
+# Environment folders (if ever created)
+
+.venv/
+env/
+ENV/
+
+# OS / editor
+
+.DS_Store
+.vscode/
+.idea/
