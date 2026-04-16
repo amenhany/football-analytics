@@ -25,3 +25,8 @@ ENV/
 .DS_Store
 .vscode/
 .idea/
+
+# Downloads
+
+*.exe
+Miniconda*.exe
