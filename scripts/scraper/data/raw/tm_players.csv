@@ -1,0 +1,1022 @@
+name,position,age,market_value,team,league
+Gianluigi Donnarumma,Goalkeeper,27,€45.00m,Manchester City,premier-league
+James Trafford,Goalkeeper,23,€25.00m,Manchester City,premier-league
+Marcus Bettinelli,Goalkeeper,33,€500k,Manchester City,premier-league
+Josko Gvardiol,Centre-Back,24,€70.00m,Manchester City,premier-league
+Marc Guéhi,Centre-Back,25,€65.00m,Manchester City,premier-league
+Rúben Dias,Centre-Back,28,€60.00m,Manchester City,premier-league
+Abdukodir Khusanov,Centre-Back,22,€35.00m,Manchester City,premier-league
+John Stones,Centre-Back,31,€15.00m,Manchester City,premier-league
+Nathan Aké,Centre-Back,31,€15.00m,Manchester City,premier-league
+Max Alleyne,Centre-Back,20,€8.00m,Manchester City,premier-league
+Nico O'Reilly,Left-Back,21,€50.00m,Manchester City,premier-league
+Rayan Aït-Nouri,Left-Back,24,€40.00m,Manchester City,premier-league
+Matheus Nunes,Right-Back,27,€45.00m,Manchester City,premier-league
+Rico Lewis,Right-Back,21,€32.00m,Manchester City,premier-league
+Rodri,Defensive Midfield,29,€65.00m,Manchester City,premier-league
+Nico González,Defensive Midfield,24,€45.00m,Manchester City,premier-league
+Tijjani Reijnders,Central Midfield,27,€60.00m,Manchester City,premier-league
+Sverre Nypan,Central Midfield,19,€15.00m,Manchester City,premier-league
+Mateo Kovacic,Central Midfield,31,€12.00m,Manchester City,premier-league
+Phil Foden,Attacking Midfield,25,€80.00m,Manchester City,premier-league
+Rayan Cherki,Attacking Midfield,22,€65.00m,Manchester City,premier-league
+Bernardo Silva,Attacking Midfield,31,€27.00m,Manchester City,premier-league
+Jérémy Doku,Left Winger,23,€65.00m,Manchester City,premier-league
+Savinho,Left Winger,22,€40.00m,Manchester City,premier-league
+Antoine Semenyo,Right Winger,26,€75.00m,Manchester City,premier-league
+Erling Haaland,Centre-Forward,25,€200.00m,Manchester City,premier-league
+Omar Marmoush,Centre-Forward,27,€60.00m,Manchester City,premier-league
+David Raya,Goalkeeper,30,€35.00m,Arsenal FC,premier-league
+Kepa Arrizabalaga,Goalkeeper,31,€7.00m,Arsenal FC,premier-league
+William Saliba,Centre-Back,25,€90.00m,Arsenal FC,premier-league
+Gabriel,Centre-Back,28,€75.00m,Arsenal FC,premier-league
+Piero Hincapié,Centre-Back,24,€50.00m,Arsenal FC,premier-league
+Cristhian Mosquera,Centre-Back,21,€35.00m,Arsenal FC,premier-league
+Riccardo Calafiori,Left-Back,23,€50.00m,Arsenal FC,premier-league
+Myles Lewis-Skelly,Left-Back,19,€35.00m,Arsenal FC,premier-league
+Jurriën Timber,Right-Back,24,€70.00m,Arsenal FC,premier-league
+Ben White,Right-Back,28,€30.00m,Arsenal FC,premier-league
+Martín Zubimendi,Defensive Midfield,27,€80.00m,Arsenal FC,premier-league
+Christian Nørgaard,Defensive Midfield,32,€7.00m,Arsenal FC,premier-league
+Declan Rice,Central Midfield,27,€120.00m,Arsenal FC,premier-league
+Mikel Merino,Central Midfield,29,€30.00m,Arsenal FC,premier-league
+Martin Ødegaard,Attacking Midfield,27,€65.00m,Arsenal FC,premier-league
+Eberechi Eze,Attacking Midfield,27,€60.00m,Arsenal FC,premier-league
+Gabriel Martinelli,Left Winger,24,€45.00m,Arsenal FC,premier-league
+Leandro Trossard,Left Winger,31,€20.00m,Arsenal FC,premier-league
+Bukayo Saka,Right Winger,24,€120.00m,Arsenal FC,premier-league
+Noni Madueke,Right Winger,24,€50.00m,Arsenal FC,premier-league
+Max Dowman,Right Winger,16,€20.00m,Arsenal FC,premier-league
+Viktor Gyökeres,Centre-Forward,27,€65.00m,Arsenal FC,premier-league
+Kai Havertz,Centre-Forward,26,€50.00m,Arsenal FC,premier-league
+Gabriel Jesus,Centre-Forward,29,€20.00m,Arsenal FC,premier-league
+Robert Sánchez,Goalkeeper,28,€22.00m,Chelsea FC,premier-league
+Filip Jørgensen,Goalkeeper,23,€15.00m,Chelsea FC,premier-league
+Gabriel Slonina,Goalkeeper,21,€3.50m,Chelsea FC,premier-league
+Teddy Sharman-Lowe,Goalkeeper,23,€550k,Chelsea FC,premier-league
+James Hillson,Goalkeeper,25,N/A,Chelsea FC,premier-league
+Levi Colwill,Centre-Back,23,€50.00m,Chelsea FC,premier-league
+Trevoh Chalobah,Centre-Back,26,€40.00m,Chelsea FC,premier-league
+Wesley Fofana,Centre-Back,25,€28.00m,Chelsea FC,premier-league
+Mamadou Sarr,Centre-Back,20,€25.00m,Chelsea FC,premier-league
+Tosin Adarabioyo,Centre-Back,28,€18.00m,Chelsea FC,premier-league
+Benoît Badiashile,Centre-Back,25,€18.00m,Chelsea FC,premier-league
+Marc Cucurella,Left-Back,27,€50.00m,Chelsea FC,premier-league
+Jorrel Hato,Left-Back,20,€35.00m,Chelsea FC,premier-league
+Caleb Wiley,Left-Back,21,€8.00m,Chelsea FC,premier-league
+Reece James,Right-Back,26,€60.00m,Chelsea FC,premier-league
+Malo Gusto,Right-Back,22,€35.00m,Chelsea FC,premier-league
+Josh Acheampong,Right-Back,19,€25.00m,Chelsea FC,premier-league
+Moisés Caicedo,Defensive Midfield,24,€110.00m,Chelsea FC,premier-league
+Roméo Lavia,Defensive Midfield,22,€25.00m,Chelsea FC,premier-league
+Dário Essugo,Defensive Midfield,21,€17.00m,Chelsea FC,premier-league
+Enzo Fernández,Central Midfield,25,€90.00m,Chelsea FC,premier-league
+Andrey Santos,Central Midfield,21,€45.00m,Chelsea FC,premier-league
+Cole Palmer,Attacking Midfield,23,€110.00m,Chelsea FC,premier-league
+Alejandro Garnacho,Left Winger,21,€40.00m,Chelsea FC,premier-league
+Jamie Gittens,Left Winger,21,€35.00m,Chelsea FC,premier-league
+Mykhaylo Mudryk,Left Winger,25,N/A,Chelsea FC,premier-league
+Estêvão,Right Winger,18,€80.00m,Chelsea FC,premier-league
+Pedro Neto,Right Winger,26,€60.00m,Chelsea FC,premier-league
+João Pedro,Centre-Forward,24,€75.00m,Chelsea FC,premier-league
+Liam Delap,Centre-Forward,23,€32.00m,Chelsea FC,premier-league
+Marc Guiu,Centre-Forward,20,€12.00m,Chelsea FC,premier-league
+Giorgi Mamardashvili,Goalkeeper,25,€28.00m,Liverpool FC,premier-league
+Alisson,Goalkeeper,33,€17.00m,Liverpool FC,premier-league
+Freddie Woodman,Goalkeeper,29,€3.00m,Liverpool FC,premier-league
+Harvey Davies,Goalkeeper,22,€500k,Liverpool FC,premier-league
+Ibrahima Konaté,Centre-Back,26,€50.00m,Liverpool FC,premier-league
+Giovanni Leoni,Centre-Back,19,€25.00m,Liverpool FC,premier-league
+Virgil van Dijk,Centre-Back,34,€18.00m,Liverpool FC,premier-league
+Joe Gomez,Centre-Back,28,€15.00m,Liverpool FC,premier-league
+Rhys Williams,Centre-Back,25,€500k,Liverpool FC,premier-league
+Milos Kerkez,Left-Back,22,€40.00m,Liverpool FC,premier-league
+Andrew Robertson,Left-Back,32,€10.00m,Liverpool FC,premier-league
+Jeremie Frimpong,Right-Back,25,€35.00m,Liverpool FC,premier-league
+Conor Bradley,Right-Back,22,€30.00m,Liverpool FC,premier-league
+Calvin Ramsay,Right-Back,22,€1.50m,Liverpool FC,premier-league
+Ryan Gravenberch,Defensive Midfield,23,€90.00m,Liverpool FC,premier-league
+Wataru Endo,Defensive Midfield,33,€5.00m,Liverpool FC,premier-league
+Stefan Bajcetic,Defensive Midfield,21,€5.00m,Liverpool FC,premier-league
+Alexis Mac Allister,Central Midfield,27,€80.00m,Liverpool FC,premier-league
+Curtis Jones,Central Midfield,25,€35.00m,Liverpool FC,premier-league
+Trey Nyoni,Central Midfield,18,€6.00m,Liverpool FC,premier-league
+Florian Wirtz,Attacking Midfield,22,€110.00m,Liverpool FC,premier-league
+Dominik Szoboszlai,Attacking Midfield,25,€100.00m,Liverpool FC,premier-league
+Cody Gakpo,Left Winger,26,€65.00m,Liverpool FC,premier-league
+Rio Ngumoha,Left Winger,17,€20.00m,Liverpool FC,premier-league
+Mohamed Salah,Right Winger,33,€30.00m,Liverpool FC,premier-league
+Federico Chiesa,Right Winger,28,€15.00m,Liverpool FC,premier-league
+Alexander Isak,Centre-Forward,26,€100.00m,Liverpool FC,premier-league
+Hugo Ekitiké,Centre-Forward,23,€90.00m,Liverpool FC,premier-league
+Guglielmo Vicario,Goalkeeper,29,€23.00m,Tottenham Hotspur,premier-league
+Antonín Kinský,Goalkeeper,23,€13.00m,Tottenham Hotspur,premier-league
+Brandon Austin,Goalkeeper,27,€500k,Tottenham Hotspur,premier-league
+Micky van de Ven,Centre-Back,24,€65.00m,Tottenham Hotspur,premier-league
+Cristian Romero,Centre-Back,27,€50.00m,Tottenham Hotspur,premier-league
+Radu Drăgușin,Centre-Back,24,€20.00m,Tottenham Hotspur,premier-league
+Kevin Danso,Centre-Back,27,€20.00m,Tottenham Hotspur,premier-league
+Ben Davies,Centre-Back,32,€5.00m,Tottenham Hotspur,premier-league
+Destiny Udogie,Left-Back,23,€35.00m,Tottenham Hotspur,premier-league
+Djed Spence,Left-Back,25,€30.00m,Tottenham Hotspur,premier-league
+Souza,Left-Back,19,€12.00m,Tottenham Hotspur,premier-league
+Pedro Porro,Right-Back,26,€40.00m,Tottenham Hotspur,premier-league
+Rodrigo Bentancur,Defensive Midfield,28,€22.00m,Tottenham Hotspur,premier-league
+João Palhinha,Defensive Midfield,30,€18.00m,Tottenham Hotspur,premier-league
+Yves Bissouma,Defensive Midfield,29,€12.00m,Tottenham Hotspur,premier-league
+Lucas Bergvall,Central Midfield,20,€40.00m,Tottenham Hotspur,premier-league
+Archie Gray,Central Midfield,20,€35.00m,Tottenham Hotspur,premier-league
+Conor Gallagher,Central Midfield,26,€35.00m,Tottenham Hotspur,premier-league
+Pape Matar Sarr,Central Midfield,23,€32.00m,Tottenham Hotspur,premier-league
+Xavi Simons,Attacking Midfield,22,€50.00m,Tottenham Hotspur,premier-league
+Dejan Kulusevski,Attacking Midfield,25,€35.00m,Tottenham Hotspur,premier-league
+James Maddison,Attacking Midfield,29,€25.00m,Tottenham Hotspur,premier-league
+Wilson Odobert,Left Winger,21,€20.00m,Tottenham Hotspur,premier-league
+Mohammed Kudus,Right Winger,25,€55.00m,Tottenham Hotspur,premier-league
+Dominic Solanke,Centre-Forward,28,€35.00m,Tottenham Hotspur,premier-league
+Richarlison,Centre-Forward,28,€28.00m,Tottenham Hotspur,premier-league
+Mathys Tel,Centre-Forward,20,€25.00m,Tottenham Hotspur,premier-league
+Randal Kolo Muani,Centre-Forward,27,€22.00m,Tottenham Hotspur,premier-league
+Senne Lammens,Goalkeeper,23,€30.00m,Manchester United,premier-league
+Altay Bayındır,Goalkeeper,27,€7.00m,Manchester United,premier-league
+Tom Heaton,Goalkeeper,39,€150k,Manchester United,premier-league
+Leny Yoro,Centre-Back,20,€50.00m,Manchester United,premier-league
+Matthijs de Ligt,Centre-Back,26,€40.00m,Manchester United,premier-league
+Lisandro Martínez,Centre-Back,28,€40.00m,Manchester United,premier-league
+Ayden Heaven,Centre-Back,19,€20.00m,Manchester United,premier-league
+Harry Maguire,Centre-Back,33,€10.00m,Manchester United,premier-league
+Patrick Dorgu,Left-Back,21,€35.00m,Manchester United,premier-league
+Luke Shaw,Left-Back,30,€10.00m,Manchester United,premier-league
+Tyrell Malacia,Left-Back,26,€5.00m,Manchester United,premier-league
+Diogo Dalot,Right-Back,27,€30.00m,Manchester United,premier-league
+Noussair Mazraoui,Right-Back,28,€20.00m,Manchester United,premier-league
+Manuel Ugarte,Defensive Midfield,25,€30.00m,Manchester United,premier-league
+Casemiro,Defensive Midfield,34,€8.00m,Manchester United,premier-league
+Kobbie Mainoo,Central Midfield,20,€50.00m,Manchester United,premier-league
+Bruno Fernandes,Attacking Midfield,31,€40.00m,Manchester United,premier-league
+Mason Mount,Attacking Midfield,27,€30.00m,Manchester United,premier-league
+Bryan Mbeumo,Right Winger,26,€80.00m,Manchester United,premier-league
+Amad Diallo,Right Winger,23,€50.00m,Manchester United,premier-league
+Matheus Cunha,Centre-Forward,26,€70.00m,Manchester United,premier-league
+Benjamin Sesko,Centre-Forward,22,€65.00m,Manchester United,premier-league
+Joshua Zirkzee,Centre-Forward,24,€22.00m,Manchester United,premier-league
+Chido Obi,Centre-Forward,18,€5.00m,Manchester United,premier-league
+Aaron Ramsdale,Goalkeeper,27,€12.00m,Newcastle United,premier-league
+Nick Pope,Goalkeeper,33,€7.00m,Newcastle United,premier-league
+Mark Gillespie,Goalkeeper,34,€150k,Newcastle United,premier-league
+John Ruddy,Goalkeeper,39,€100k,Newcastle United,premier-league
+Malick Thiaw,Centre-Back,24,€45.00m,Newcastle United,premier-league
+Sven Botman,Centre-Back,26,€35.00m,Newcastle United,premier-league
+Fabian Schär,Centre-Back,34,€6.00m,Newcastle United,premier-league
+Dan Burn,Centre-Back,33,€5.00m,Newcastle United,premier-league
+Lewis Hall,Left-Back,21,€35.00m,Newcastle United,premier-league
+Alex Murphy,Left-Back,21,€1.50m,Newcastle United,premier-league
+Tino Livramento,Right-Back,23,€40.00m,Newcastle United,premier-league
+Kieran Trippier,Right-Back,35,€2.50m,Newcastle United,premier-league
+Emil Krafth,Right-Back,31,€1.00m,Newcastle United,premier-league
+Sandro Tonali,Defensive Midfield,25,€80.00m,Newcastle United,premier-league
+Bruno Guimarães,Central Midfield,28,€75.00m,Newcastle United,premier-league
+Jacob Ramsey,Central Midfield,24,€35.00m,Newcastle United,premier-league
+Joelinton,Central Midfield,29,€30.00m,Newcastle United,premier-league
+Lewis Miley,Central Midfield,19,€25.00m,Newcastle United,premier-league
+Joe Willock,Central Midfield,26,€16.00m,Newcastle United,premier-league
+Anthony Gordon,Left Winger,25,€60.00m,Newcastle United,premier-league
+Harvey Barnes,Left Winger,28,€32.00m,Newcastle United,premier-league
+Anthony Elanga,Right Winger,23,€40.00m,Newcastle United,premier-league
+Jacob Murphy,Right Winger,31,€15.00m,Newcastle United,premier-league
+Nick Woltemade,Centre-Forward,24,€65.00m,Newcastle United,premier-league
+Yoane Wissa,Centre-Forward,29,€30.00m,Newcastle United,premier-league
+William Osula,Centre-Forward,22,€15.00m,Newcastle United,premier-league
+John Victor,Goalkeeper,30,€7.00m,Nottingham Forest,premier-league
+Stefan Ortega,Goalkeeper,33,€5.00m,Nottingham Forest,premier-league
+Matz Sels,Goalkeeper,34,€4.00m,Nottingham Forest,premier-league
+Angus Gunn,Goalkeeper,30,€1.50m,Nottingham Forest,premier-league
+Murillo,Centre-Back,23,€50.00m,Nottingham Forest,premier-league
+Nikola Milenković,Centre-Back,28,€30.00m,Nottingham Forest,premier-league
+Morato,Centre-Back,24,€14.00m,Nottingham Forest,premier-league
+Jair Cunha,Centre-Back,21,€12.00m,Nottingham Forest,premier-league
+Zach Abbott,Centre-Back,19,€3.00m,Nottingham Forest,premier-league
+Willy Boly,Centre-Back,35,€500k,Nottingham Forest,premier-league
+Neco Williams,Left-Back,25,€25.00m,Nottingham Forest,premier-league
+Luca Netz,Left-Back,22,€6.00m,Nottingham Forest,premier-league
+Ola Aina,Right-Back,29,€20.00m,Nottingham Forest,premier-league
+Nicolò Savona,Right-Back,23,€18.00m,Nottingham Forest,premier-league
+Eric da Silva Moreira,Right-Back,19,€1.00m,Nottingham Forest,premier-league
+Ibrahim Sangaré,Defensive Midfield,28,€22.00m,Nottingham Forest,premier-league
+Elliot Anderson,Central Midfield,23,€60.00m,Nottingham Forest,premier-league
+Nicolás Domínguez,Central Midfield,27,€16.00m,Nottingham Forest,premier-league
+Ryan Yates,Central Midfield,28,€8.00m,Nottingham Forest,premier-league
+Morgan Gibbs-White,Attacking Midfield,26,€60.00m,Nottingham Forest,premier-league
+Omari Hutchinson,Attacking Midfield,22,€30.00m,Nottingham Forest,premier-league
+James McAtee,Attacking Midfield,23,€20.00m,Nottingham Forest,premier-league
+Callum Hudson-Odoi,Left Winger,25,€30.00m,Nottingham Forest,premier-league
+Dan Ndoye,Right Winger,25,€35.00m,Nottingham Forest,premier-league
+Dilane Bakwa,Right Winger,23,€28.00m,Nottingham Forest,premier-league
+Lorenzo Lucca,Centre-Forward,25,€25.00m,Nottingham Forest,premier-league
+Igor Jesus,Centre-Forward,25,€22.00m,Nottingham Forest,premier-league
+Taiwo Awoniyi,Centre-Forward,28,€9.00m,Nottingham Forest,premier-league
+Chris Wood,Centre-Forward,34,€6.00m,Nottingham Forest,premier-league
+Emiliano Martínez,Goalkeeper,33,€15.00m,Aston Villa,premier-league
+Marco Bizot,Goalkeeper,35,€2.50m,Aston Villa,premier-league
+Ezri Konsa,Centre-Back,28,€40.00m,Aston Villa,premier-league
+Pau Torres,Centre-Back,29,€22.00m,Aston Villa,premier-league
+Victor Lindelöf,Centre-Back,31,€6.00m,Aston Villa,premier-league
+Tyrone Mings,Centre-Back,33,€4.00m,Aston Villa,premier-league
+Ian Maatsen,Left-Back,24,€30.00m,Aston Villa,premier-league
+Lucas Digne,Left-Back,32,€8.00m,Aston Villa,premier-league
+Matty Cash,Right-Back,28,€22.00m,Aston Villa,premier-league
+Andrés García,Right-Back,23,€7.00m,Aston Villa,premier-league
+Amadou Onana,Defensive Midfield,24,€45.00m,Aston Villa,premier-league
+Boubacar Kamara,Defensive Midfield,26,€40.00m,Aston Villa,premier-league
+Lamare Bogarde,Defensive Midfield,22,€15.00m,Aston Villa,premier-league
+Youri Tielemans,Central Midfield,28,€35.00m,Aston Villa,premier-league
+Douglas Luiz,Central Midfield,27,€20.00m,Aston Villa,premier-league
+John McGinn,Central Midfield,31,€15.00m,Aston Villa,premier-league
+Ross Barkley,Central Midfield,32,€5.00m,Aston Villa,premier-league
+Morgan Rogers,Attacking Midfield,23,€80.00m,Aston Villa,premier-league
+Harvey Elliott,Attacking Midfield,23,€22.00m,Aston Villa,premier-league
+Emiliano Buendía,Attacking Midfield,29,€18.00m,Aston Villa,premier-league
+Jadon Sancho,Left Winger,26,€20.00m,Aston Villa,premier-league
+Leon Bailey,Right Winger,28,€16.00m,Aston Villa,premier-league
+Alysson,Right Winger,19,€10.00m,Aston Villa,premier-league
+Ollie Watkins,Centre-Forward,30,€30.00m,Aston Villa,premier-league
+Tammy Abraham,Centre-Forward,28,€20.00m,Aston Villa,premier-league
+Dean Henderson,Goalkeeper,29,€28.00m,Crystal Palace,premier-league
+Walter Benítez,Goalkeeper,33,€5.00m,Crystal Palace,premier-league
+Remi Matthews,Goalkeeper,32,€300k,Crystal Palace,premier-league
+Maxence Lacroix,Centre-Back,26,€40.00m,Crystal Palace,premier-league
+Chris Richards,Centre-Back,26,€25.00m,Crystal Palace,premier-league
+Jaydee Canvot,Centre-Back,19,€20.00m,Crystal Palace,premier-league
+Chadi Riad,Centre-Back,22,€12.00m,Crystal Palace,premier-league
+Tyrick Mitchell,Left-Back,26,€25.00m,Crystal Palace,premier-league
+Borna Sosa,Left-Back,28,€4.00m,Crystal Palace,premier-league
+Rio Cardines,Left-Back,19,€300k,Crystal Palace,premier-league
+Daniel Muñoz,Right-Back,29,€27.00m,Crystal Palace,premier-league
+Caleb Kporha,Right-Back,19,€1.00m,Crystal Palace,premier-league
+Nathaniel Clyne,Right-Back,35,€500k,Crystal Palace,premier-league
+Adam Wharton,Defensive Midfield,22,€60.00m,Crystal Palace,premier-league
+Cheick Doucouré,Defensive Midfield,26,€13.00m,Crystal Palace,premier-league
+Jefferson Lerma,Defensive Midfield,31,€8.00m,Crystal Palace,premier-league
+Kaden Rodney,Defensive Midfield,21,€200k,Crystal Palace,premier-league
+Will Hughes,Central Midfield,30,€6.00m,Crystal Palace,premier-league
+Daichi Kamada,Attacking Midfield,29,€12.00m,Crystal Palace,premier-league
+Justin Devenny,Attacking Midfield,22,€12.00m,Crystal Palace,premier-league
+Ismaïla Sarr,Right Winger,28,€35.00m,Crystal Palace,premier-league
+Yéremy Pino,Right Winger,23,€35.00m,Crystal Palace,premier-league
+Brennan Johnson,Right Winger,24,€35.00m,Crystal Palace,premier-league
+Evann Guessand,Right Winger,24,€28.00m,Crystal Palace,premier-league
+Jørgen Strand Larsen,Centre-Forward,26,€45.00m,Crystal Palace,premier-league
+Jean-Philippe Mateta,Centre-Forward,28,€35.00m,Crystal Palace,premier-league
+Christantus Uche,Centre-Forward,22,€15.00m,Crystal Palace,premier-league
+Eddie Nketiah,Centre-Forward,26,€14.00m,Crystal Palace,premier-league
+Djordje Petrovic,Goalkeeper,26,€28.00m,AFC Bournemouth,premier-league
+Christos Mandas,Goalkeeper,24,€10.00m,AFC Bournemouth,premier-league
+Fraser Forster,Goalkeeper,38,€600k,AFC Bournemouth,premier-league
+Bafodé Diakité,Centre-Back,25,€30.00m,AFC Bournemouth,premier-league
+Marcos Senesi,Centre-Back,28,€22.00m,AFC Bournemouth,premier-league
+Veljko Milosavljevic,Centre-Back,18,€20.00m,AFC Bournemouth,premier-league
+James Hill,Centre-Back,24,€15.00m,AFC Bournemouth,premier-league
+Matai Akinmboni,Centre-Back,19,€1.00m,AFC Bournemouth,premier-league
+Adrien Truffert,Left-Back,24,€25.00m,AFC Bournemouth,premier-league
+Julio Soler,Left-Back,21,€8.00m,AFC Bournemouth,premier-league
+Álex Jiménez,Right-Back,20,€22.00m,AFC Bournemouth,premier-league
+Adam Smith,Right-Back,34,€500k,AFC Bournemouth,premier-league
+Tyler Adams,Defensive Midfield,27,€25.00m,AFC Bournemouth,premier-league
+Alex Scott,Central Midfield,22,€40.00m,AFC Bournemouth,premier-league
+Lewis Cook,Central Midfield,29,€13.00m,AFC Bournemouth,premier-league
+Alex Tóth,Central Midfield,20,€12.00m,AFC Bournemouth,premier-league
+Ryan Christie,Central Midfield,31,€9.00m,AFC Bournemouth,premier-league
+Justin Kluivert,Attacking Midfield,26,€30.00m,AFC Bournemouth,premier-league
+Marcus Tavernier,Attacking Midfield,27,€23.00m,AFC Bournemouth,premier-league
+Amine Adli,Left Winger,25,€20.00m,AFC Bournemouth,premier-league
+Rayan,Right Winger,19,€40.00m,AFC Bournemouth,premier-league
+Ben Gannon-Doak,Right Winger,20,€16.00m,AFC Bournemouth,premier-league
+David Brooks,Right Winger,28,€14.00m,AFC Bournemouth,premier-league
+Junior Kroupi,Centre-Forward,19,€40.00m,AFC Bournemouth,premier-league
+Evanilson,Centre-Forward,26,€35.00m,AFC Bournemouth,premier-league
+Enes Ünal,Centre-Forward,28,€8.00m,AFC Bournemouth,premier-league
+Bart Verbruggen,Goalkeeper,23,€40.00m,Brighton & Hove Albion,premier-league
+Jason Steele,Goalkeeper,35,€750k,Brighton & Hove Albion,premier-league
+Tom McGill,Goalkeeper,26,€500k,Brighton & Hove Albion,premier-league
+Jan Paul van Hecke,Centre-Back,25,€35.00m,Brighton & Hove Albion,premier-league
+Olivier Boscagli,Centre-Back,28,€15.00m,Brighton & Hove Albion,premier-league
+Igor Julio,Centre-Back,28,€12.00m,Brighton & Hove Albion,premier-league
+Adam Webster,Centre-Back,31,€5.00m,Brighton & Hove Albion,premier-league
+Lewis Dunk,Centre-Back,34,€4.00m,Brighton & Hove Albion,premier-league
+Ferdi Kadıoğlu,Left-Back,26,€30.00m,Brighton & Hove Albion,premier-league
+Maxim De Cuyper,Left-Back,25,€22.00m,Brighton & Hove Albion,premier-league
+Mats Wieffer,Right-Back,26,€25.00m,Brighton & Hove Albion,premier-league
+Joël Veltman,Right-Back,34,€2.50m,Brighton & Hove Albion,premier-league
+Carlos Baleba,Defensive Midfield,22,€55.00m,Brighton & Hove Albion,premier-league
+Jack Hinshelwood,Defensive Midfield,21,€22.00m,Brighton & Hove Albion,premier-league
+Yasin Ayari,Central Midfield,22,€30.00m,Brighton & Hove Albion,premier-league
+Diego Gómez,Central Midfield,23,€25.00m,Brighton & Hove Albion,premier-league
+Matt O'Riley,Central Midfield,25,€20.00m,Brighton & Hove Albion,premier-league
+Pascal Groß,Central Midfield,34,€3.50m,Brighton & Hove Albion,premier-league
+James Milner,Central Midfield,40,€750k,Brighton & Hove Albion,premier-league
+Kaoru Mitoma,Left Winger,28,€25.00m,Brighton & Hove Albion,premier-league
+Yankuba Minteh,Right Winger,21,€40.00m,Brighton & Hove Albion,premier-league
+Solly March,Right Winger,31,€2.00m,Brighton & Hove Albion,premier-league
+Georginio Rutter,Centre-Forward,23,€30.00m,Brighton & Hove Albion,premier-league
+Charalampos Kostoulas,Centre-Forward,18,€25.00m,Brighton & Hove Albion,premier-league
+Stefanos Tzimas,Centre-Forward,20,€20.00m,Brighton & Hove Albion,premier-league
+Danny Welbeck,Centre-Forward,35,€4.00m,Brighton & Hove Albion,premier-league
+Caoimhín Kelleher,Goalkeeper,27,€25.00m,Brentford FC,premier-league
+Hákon Valdimarsson,Goalkeeper,24,€2.50m,Brentford FC,premier-league
+Ellery Balcombe,Goalkeeper,26,€400k,Brentford FC,premier-league
+Julian Eyestone,Goalkeeper,19,N/A,Brentford FC,premier-league
+Sepp van den Berg,Centre-Back,24,€32.00m,Brentford FC,premier-league
+Nathan Collins,Centre-Back,24,€30.00m,Brentford FC,premier-league
+Kristoffer Ajer,Centre-Back,27,€18.00m,Brentford FC,premier-league
+Ethan Pinnock,Centre-Back,32,€4.00m,Brentford FC,premier-league
+Rico Henry,Left-Back,28,€15.00m,Brentford FC,premier-league
+Michael Kayode,Right-Back,21,€35.00m,Brentford FC,premier-league
+Aaron Hickey,Right-Back,23,€16.00m,Brentford FC,premier-league
+Vitaly Janelt,Defensive Midfield,27,€18.00m,Brentford FC,premier-league
+Jordan Henderson,Defensive Midfield,35,€2.00m,Brentford FC,premier-league
+Yegor Yarmolyuk,Central Midfield,22,€30.00m,Brentford FC,premier-league
+Mathias Jensen,Central Midfield,30,€12.00m,Brentford FC,premier-league
+Josh Dasilva,Central Midfield,27,€2.00m,Brentford FC,premier-league
+Keane Lewis-Potter,Left Midfield,25,€25.00m,Brentford FC,premier-league
+Mikkel Damsgaard,Attacking Midfield,25,€30.00m,Brentford FC,premier-league
+Antoni Milambo,Attacking Midfield,21,€20.00m,Brentford FC,premier-league
+Fábio Carvalho,Attacking Midfield,23,€10.00m,Brentford FC,premier-league
+Kevin Schade,Left Winger,24,€35.00m,Brentford FC,premier-league
+Reiss Nelson,Left Winger,26,€12.00m,Brentford FC,premier-league
+Dango Ouattara,Right Winger,24,€35.00m,Brentford FC,premier-league
+Romelle Donovan,Right Winger,19,€3.50m,Brentford FC,premier-league
+Igor Thiago,Centre-Forward,24,€50.00m,Brentford FC,premier-league
+Kaye Furo,Centre-Forward,19,€8.00m,Brentford FC,premier-league
+Jordan Pickford,Goalkeeper,32,€15.00m,Everton FC,premier-league
+Mark Travers,Goalkeeper,26,€4.00m,Everton FC,premier-league
+Tom King,Goalkeeper,31,€150k,Everton FC,premier-league
+Jarrad Branthwaite,Centre-Back,23,€45.00m,Everton FC,premier-league
+James Tarkowski,Centre-Back,33,€7.00m,Everton FC,premier-league
+Michael Keane,Centre-Back,33,€4.00m,Everton FC,premier-league
+Vitaliy Mykolenko,Left-Back,26,€25.00m,Everton FC,premier-league
+Adam Aznou,Left-Back,19,€7.00m,Everton FC,premier-league
+Jake O'Brien,Right-Back,24,€18.00m,Everton FC,premier-league
+Nathan Patterson,Right-Back,24,€10.00m,Everton FC,premier-league
+Séamus Coleman,Right-Back,37,€300k,Everton FC,premier-league
+James Garner,Defensive Midfield,25,€35.00m,Everton FC,premier-league
+Idrissa Gueye,Defensive Midfield,36,€1.00m,Everton FC,premier-league
+Kiernan Dewsbury-Hall,Central Midfield,27,€32.00m,Everton FC,premier-league
+Carlos Alcaraz,Central Midfield,23,€15.00m,Everton FC,premier-league
+Tim Iroegbunam,Central Midfield,22,€15.00m,Everton FC,premier-league
+Harrison Armstrong,Central Midfield,19,€12.00m,Everton FC,premier-league
+Merlin Röhl,Attacking Midfield,23,€16.00m,Everton FC,premier-league
+Jack Grealish,Left Winger,30,€25.00m,Everton FC,premier-league
+Tyrique George,Left Winger,20,€22.00m,Everton FC,premier-league
+Dwight McNeil,Left Winger,26,€20.00m,Everton FC,premier-league
+Iliman Ndiaye,Right Winger,26,€50.00m,Everton FC,premier-league
+Tyler Dibling,Right Winger,20,€22.00m,Everton FC,premier-league
+Thierno Barry,Centre-Forward,23,€30.00m,Everton FC,premier-league
+Beto,Centre-Forward,28,€20.00m,Everton FC,premier-league
+Bernd Leno,Goalkeeper,34,€8.00m,Fulham FC,premier-league
+Benjamin Lecomte,Goalkeeper,34,€1.20m,Fulham FC,premier-league
+Calvin Bassey,Centre-Back,26,€28.00m,Fulham FC,premier-league
+Joachim Andersen,Centre-Back,29,€25.00m,Fulham FC,premier-league
+Issa Diop,Centre-Back,29,€10.00m,Fulham FC,premier-league
+Jorge Cuenca,Centre-Back,26,€8.00m,Fulham FC,premier-league
+Antonee Robinson,Left-Back,28,€25.00m,Fulham FC,premier-league
+Ryan Sessegnon,Left-Back,25,€20.00m,Fulham FC,premier-league
+Kenny Tete,Right-Back,30,€11.00m,Fulham FC,premier-league
+Timothy Castagne,Right-Back,30,€10.00m,Fulham FC,premier-league
+Sander Berge,Defensive Midfield,28,€25.00m,Fulham FC,premier-league
+Saša Lukić,Central Midfield,29,€12.00m,Fulham FC,premier-league
+Harrison Reed,Central Midfield,31,€3.00m,Fulham FC,premier-league
+Tom Cairney,Central Midfield,35,€750k,Fulham FC,premier-league
+Emile Smith Rowe,Attacking Midfield,25,€22.00m,Fulham FC,premier-league
+Josh King,Attacking Midfield,19,€20.00m,Fulham FC,premier-league
+Kevin,Left Winger,23,€30.00m,Fulham FC,premier-league
+Alex Iwobi,Left Winger,29,€25.00m,Fulham FC,premier-league
+Oscar Bobb,Right Winger,22,€30.00m,Fulham FC,premier-league
+Harry Wilson,Right Winger,29,€25.00m,Fulham FC,premier-league
+Samuel Chukwueze,Right Winger,26,€15.00m,Fulham FC,premier-league
+Rodrigo Muniz,Centre-Forward,24,€25.00m,Fulham FC,premier-league
+Raúl Jiménez,Centre-Forward,34,€4.00m,Fulham FC,premier-league
+Jonah Kusi-Asare,Centre-Forward,18,€4.00m,Fulham FC,premier-league
+Robin Roefs,Goalkeeper,23,€25.00m,Sunderland AFC,premier-league
+Melker Ellborg,Goalkeeper,22,€3.00m,Sunderland AFC,premier-league
+Simon Moore,Goalkeeper,35,€100k,Sunderland AFC,premier-league
+Dan Ballard,Centre-Back,26,€20.00m,Sunderland AFC,premier-league
+Omar Alderete,Centre-Back,29,€15.00m,Sunderland AFC,premier-league
+Luke O'Nien,Centre-Back,31,€1.00m,Sunderland AFC,premier-league
+Dennis Cirkin,Left-Back,24,€8.00m,Sunderland AFC,premier-league
+Reinildo Mandava,Left-Back,32,€5.00m,Sunderland AFC,premier-league
+Trai Hume,Right-Back,24,€22.00m,Sunderland AFC,premier-league
+Lutsharel Geertruida,Right-Back,25,€20.00m,Sunderland AFC,premier-league
+Nordi Mukiele,Right-Back,28,€18.00m,Sunderland AFC,premier-league
+Granit Xhaka,Defensive Midfield,33,€10.00m,Sunderland AFC,premier-league
+Habib Diarra,Central Midfield,22,€32.00m,Sunderland AFC,premier-league
+Noah Sadiki,Central Midfield,21,€30.00m,Sunderland AFC,premier-league
+Enzo Le Fée,Central Midfield,26,€25.00m,Sunderland AFC,premier-league
+Abdoullah Ba,Right Midfield,22,€2.00m,Sunderland AFC,premier-league
+Chris Rigg,Attacking Midfield,18,€25.00m,Sunderland AFC,premier-league
+Milan Aleksic,Attacking Midfield,20,€700k,Sunderland AFC,premier-league
+Harrison Jones,Attacking Midfield,21,€150k,Sunderland AFC,premier-league
+Nilson Angulo,Left Winger,22,€17.00m,Sunderland AFC,premier-league
+Romaine Mundle,Left Winger,22,€8.00m,Sunderland AFC,premier-league
+Chemsdine Talbi,Right Winger,20,€25.00m,Sunderland AFC,premier-league
+Bertrand Traoré,Right Winger,30,€5.00m,Sunderland AFC,premier-league
+Jocelin Ta Bi,Right Winger,21,€3.00m,Sunderland AFC,premier-league
+Brian Brobbey,Centre-Forward,24,€25.00m,Sunderland AFC,premier-league
+Eliezer Mayenda,Centre-Forward,20,€18.00m,Sunderland AFC,premier-league
+Wilson Isidor,Centre-Forward,25,€18.00m,Sunderland AFC,premier-league
+Ahmed Abdullahi,Centre-Forward,21,€1.00m,Sunderland AFC,premier-league
+Mads Hermansen,Goalkeeper,25,€15.00m,West Ham United,premier-league
+Alphonse Areola,Goalkeeper,33,€5.00m,West Ham United,premier-league
+Lukasz Fabianski,Goalkeeper,40,€250k,West Ham United,premier-league
+Jean-Clair Todibo,Centre-Back,26,€23.00m,West Ham United,premier-league
+Maximilian Kilman,Centre-Back,28,€16.00m,West Ham United,premier-league
+Axel Disasi,Centre-Back,28,€15.00m,West Ham United,premier-league
+Konstantinos Mavropanos,Centre-Back,28,€15.00m,West Ham United,premier-league
+Ezra Mayers,Centre-Back,19,€1.20m,West Ham United,premier-league
+El Hadji Malick Diouf,Left-Back,21,€28.00m,West Ham United,premier-league
+Oliver Scarles,Left-Back,20,€10.00m,West Ham United,premier-league
+Aaron Wan-Bissaka,Right-Back,28,€22.00m,West Ham United,premier-league
+Kyle Walker-Peters,Right-Back,29,€13.00m,West Ham United,premier-league
+Soungoutou Magassa,Defensive Midfield,22,€17.00m,West Ham United,premier-league
+Tomáš Souček,Defensive Midfield,31,€12.00m,West Ham United,premier-league
+Freddie Potts,Defensive Midfield,22,€10.00m,West Ham United,premier-league
+Mohamadou Kanté,Defensive Midfield,20,€300k,West Ham United,premier-league
+Mateus Fernandes,Central Midfield,21,€35.00m,West Ham United,premier-league
+Crysencio Summerville,Left Winger,24,€30.00m,West Ham United,premier-league
+Keiber Lamadrid,Left Winger,22,€1.20m,West Ham United,premier-league
+Jarrod Bowen,Right Winger,29,€35.00m,West Ham United,premier-league
+Adama Traoré,Right Winger,30,€8.00m,West Ham United,premier-league
+Taty Castellanos,Centre-Forward,27,€28.00m,West Ham United,premier-league
+Pablo,Centre-Forward,22,€18.00m,West Ham United,premier-league
+Callum Wilson,Centre-Forward,34,€5.00m,West Ham United,premier-league
+Lucas Perri,Goalkeeper,28,€13.00m,Leeds United,premier-league
+Illan Meslier,Goalkeeper,26,€10.00m,Leeds United,premier-league
+Karl Darlow,Goalkeeper,35,€200k,Leeds United,premier-league
+Alex Cairns,Goalkeeper,33,€75k,Leeds United,premier-league
+Pascal Struijk,Centre-Back,26,€22.00m,Leeds United,premier-league
+Jaka Bijol,Centre-Back,27,€18.00m,Leeds United,premier-league
+Joe Rodon,Centre-Back,28,€15.00m,Leeds United,premier-league
+Sebastiaan Bornauw,Centre-Back,27,€8.00m,Leeds United,premier-league
+Gabriel Gudmundsson,Left-Back,26,€20.00m,Leeds United,premier-league
+Sam Byram,Left-Back,32,€600k,Leeds United,premier-league
+Jayden Bogle,Right-Back,25,€12.00m,Leeds United,premier-league
+James Justin,Right-Back,28,€12.00m,Leeds United,premier-league
+Ethan Ampadu,Defensive Midfield,25,€25.00m,Leeds United,premier-league
+Anton Stach,Defensive Midfield,27,€25.00m,Leeds United,premier-league
+Ilia Gruev,Defensive Midfield,25,€12.00m,Leeds United,premier-league
+Charlie Crew,Defensive Midfield,19,€150k,Leeds United,premier-league
+Sean Longstaff,Central Midfield,28,€16.00m,Leeds United,premier-league
+Ao Tanaka,Central Midfield,27,€10.00m,Leeds United,premier-league
+Brenden Aaronson,Attacking Midfield,25,€18.00m,Leeds United,premier-league
+Facundo Buonanotte,Attacking Midfield,21,€16.00m,Leeds United,premier-league
+Noah Okafor,Left Winger,25,€18.00m,Leeds United,premier-league
+Wilfried Gnonto,Right Winger,22,€18.00m,Leeds United,premier-league
+Daniel James,Right Winger,28,€12.00m,Leeds United,premier-league
+Dominic Calvert-Lewin,Centre-Forward,29,€22.00m,Leeds United,premier-league
+Joël Piroe,Centre-Forward,26,€13.00m,Leeds United,premier-league
+Lukas Nmecha,Centre-Forward,27,€10.00m,Leeds United,premier-league
+José Sá,Goalkeeper,33,€5.00m,Wolverhampton Wanderers,premier-league
+Sam Johnstone,Goalkeeper,33,€3.00m,Wolverhampton Wanderers,premier-league
+Daniel Bentley,Goalkeeper,32,€1.00m,Wolverhampton Wanderers,premier-league
+Ladislav Krejčí,Centre-Back,26,€22.00m,Wolverhampton Wanderers,premier-league
+Toti,Centre-Back,27,€20.00m,Wolverhampton Wanderers,premier-league
+Yerson Mosquera,Centre-Back,24,€12.00m,Wolverhampton Wanderers,premier-league
+Santiago Bueno,Centre-Back,27,€10.00m,Wolverhampton Wanderers,premier-league
+Hugo Bueno,Left-Back,23,€12.00m,Wolverhampton Wanderers,premier-league
+David Møller Wolfe,Left-Back,23,€10.00m,Wolverhampton Wanderers,premier-league
+Jackson Tchatchoua,Right-Back,24,€12.00m,Wolverhampton Wanderers,premier-league
+Pedro Lima,Right-Back,19,€4.00m,Wolverhampton Wanderers,premier-league
+Matt Doherty,Right-Back,34,€1.50m,Wolverhampton Wanderers,premier-league
+André,Defensive Midfield,24,€25.00m,Wolverhampton Wanderers,premier-league
+João Gomes,Central Midfield,25,€35.00m,Wolverhampton Wanderers,premier-league
+Jean-Ricner Bellegarde,Central Midfield,27,€16.00m,Wolverhampton Wanderers,premier-league
+Rodrigo Gomes,Left Midfield,22,€15.00m,Wolverhampton Wanderers,premier-league
+Mateus Mané,Attacking Midfield,18,€20.00m,Wolverhampton Wanderers,premier-league
+Angel Gomes,Attacking Midfield,25,€12.00m,Wolverhampton Wanderers,premier-league
+Enso González,Left Winger,21,€3.00m,Wolverhampton Wanderers,premier-league
+Tolu Arokodare,Centre-Forward,25,€22.00m,Wolverhampton Wanderers,premier-league
+Adam Armstrong,Centre-Forward,29,€8.00m,Wolverhampton Wanderers,premier-league
+Hee-chan Hwang,Centre-Forward,30,€8.00m,Wolverhampton Wanderers,premier-league
+Nathan Fraser,Centre-Forward,21,€600k,Wolverhampton Wanderers,premier-league
+Max Weiß,Goalkeeper,21,€4.00m,Burnley FC,premier-league
+Martin Dúbravka,Goalkeeper,37,€750k,Burnley FC,premier-league
+Václav Hladký,Goalkeeper,35,€200k,Burnley FC,premier-league
+Maxime Estève,Centre-Back,23,€25.00m,Burnley FC,premier-league
+Bashir Humphreys,Centre-Back,23,€15.00m,Burnley FC,premier-league
+Hjalmar Ekdal,Centre-Back,27,€6.00m,Burnley FC,premier-league
+Axel Tuanzebe,Centre-Back,28,€5.00m,Burnley FC,premier-league
+Joe Worrall,Centre-Back,29,€3.00m,Burnley FC,premier-league
+Jordan Beyer,Centre-Back,25,€2.50m,Burnley FC,premier-league
+Quilindschy Hartman,Left-Back,24,€18.00m,Burnley FC,premier-league
+Lucas Pires,Left-Back,25,€5.00m,Burnley FC,premier-league
+Kyle Walker,Right-Back,35,€2.50m,Burnley FC,premier-league
+Connor Roberts,Right-Back,30,€2.50m,Burnley FC,premier-league
+Lesley Ugochukwu,Defensive Midfield,22,€25.00m,Burnley FC,premier-league
+Florentino,Defensive Midfield,26,€20.00m,Burnley FC,premier-league
+James Ward-Prowse,Central Midfield,31,€6.00m,Burnley FC,premier-league
+Josh Cullen,Central Midfield,30,€6.00m,Burnley FC,premier-league
+Josh Laurent,Central Midfield,30,€2.00m,Burnley FC,premier-league
+Hannibal,Attacking Midfield,23,€16.00m,Burnley FC,premier-league
+Mike Tresor,Attacking Midfield,26,€3.00m,Burnley FC,premier-league
+Jaidon Anthony,Left Winger,26,€18.00m,Burnley FC,premier-league
+Jacob Bruun Larsen,Left Winger,27,€5.00m,Burnley FC,premier-league
+Loum Tchaouna,Right Winger,22,€15.00m,Burnley FC,premier-league
+Marcus Edwards,Right Winger,27,€8.00m,Burnley FC,premier-league
+Zian Flemming,Centre-Forward,27,€12.00m,Burnley FC,premier-league
+Lyle Foster,Centre-Forward,25,€10.00m,Burnley FC,premier-league
+Zeki Amdouni,Centre-Forward,25,€9.00m,Burnley FC,premier-league
+Armando Broja,Centre-Forward,24,€8.00m,Burnley FC,premier-league
+Ashley Barnes,Centre-Forward,36,€200k,Burnley FC,premier-league
+Thibaut Courtois,Goalkeeper,33,€18.00m,Real Madrid,la-liga
+Andriy Lunin,Goalkeeper,27,€15.00m,Real Madrid,la-liga
+Fran González,Goalkeeper,20,€3.00m,Real Madrid,la-liga
+Dean Huijsen,Centre-Back,20,€65.00m,Real Madrid,la-liga
+Éder Militão,Centre-Back,28,€25.00m,Real Madrid,la-liga
+Raúl Asencio,Centre-Back,23,€25.00m,Real Madrid,la-liga
+Antonio Rüdiger,Centre-Back,33,€9.00m,Real Madrid,la-liga
+David Alaba,Centre-Back,33,€3.50m,Real Madrid,la-liga
+Álvaro Carreras,Left-Back,23,€60.00m,Real Madrid,la-liga
+Fran García,Left-Back,26,€12.00m,Real Madrid,la-liga
+Ferland Mendy,Left-Back,30,€6.00m,Real Madrid,la-liga
+Trent Alexander-Arnold,Right-Back,27,€65.00m,Real Madrid,la-liga
+Daniel Carvajal,Right-Back,34,€6.00m,Real Madrid,la-liga
+Aurélien Tchouaméni,Defensive Midfield,26,€75.00m,Real Madrid,la-liga
+Federico Valverde,Central Midfield,27,€120.00m,Real Madrid,la-liga
+Eduardo Camavinga,Central Midfield,23,€50.00m,Real Madrid,la-liga
+Thiago Pitarch,Central Midfield,18,€20.00m,Real Madrid,la-liga
+Dani Ceballos,Central Midfield,29,€8.00m,Real Madrid,la-liga
+Jorge Cestero,Central Midfield,20,€7.50m,Real Madrid,la-liga
+Manuel Ángel,Central Midfield,22,€5.00m,Real Madrid,la-liga
+Jude Bellingham,Attacking Midfield,22,€140.00m,Real Madrid,la-liga
+Arda Güler,Attacking Midfield,21,€90.00m,Real Madrid,la-liga
+Vinicius Junior,Left Winger,25,€150.00m,Real Madrid,la-liga
+Rodrygo,Right Winger,25,€50.00m,Real Madrid,la-liga
+Franco Mastantuono,Right Winger,18,€45.00m,Real Madrid,la-liga
+Brahim Díaz,Right Winger,26,€35.00m,Real Madrid,la-liga
+Kylian Mbappé,Centre-Forward,27,€200.00m,Real Madrid,la-liga
+Gonzalo García,Centre-Forward,22,€30.00m,Real Madrid,la-liga
+Joan García,Goalkeeper,24,€40.00m,FC Barcelona,la-liga
+Wojciech Szczęsny,Goalkeeper,35,€900k,FC Barcelona,la-liga
+Diego Kochen,Goalkeeper,20,€500k,FC Barcelona,la-liga
+Pau Cubarsí,Centre-Back,19,€80.00m,FC Barcelona,la-liga
+Eric García,Centre-Back,25,€35.00m,FC Barcelona,la-liga
+Ronald Araujo,Centre-Back,27,€20.00m,FC Barcelona,la-liga
+Andreas Christensen,Centre-Back,30,€9.00m,FC Barcelona,la-liga
+Alejandro Balde,Left-Back,22,€55.00m,FC Barcelona,la-liga
+Gerard Martín,Left-Back,24,€25.00m,FC Barcelona,la-liga
+Jules Koundé,Right-Back,27,€65.00m,FC Barcelona,la-liga
+João Cancelo,Right-Back,31,€9.00m,FC Barcelona,la-liga
+Marc Bernal,Defensive Midfield,18,€30.00m,FC Barcelona,la-liga
+Marc Casadó,Defensive Midfield,22,€20.00m,FC Barcelona,la-liga
+Pedri,Central Midfield,23,€150.00m,FC Barcelona,la-liga
+Frenkie de Jong,Central Midfield,28,€45.00m,FC Barcelona,la-liga
+Gavi,Central Midfield,21,€30.00m,FC Barcelona,la-liga
+Fermín López,Attacking Midfield,22,€100.00m,FC Barcelona,la-liga
+Dani Olmo,Attacking Midfield,27,€60.00m,FC Barcelona,la-liga
+Raphinha,Left Winger,29,€80.00m,FC Barcelona,la-liga
+Marcus Rashford,Left Winger,28,€40.00m,FC Barcelona,la-liga
+Lamine Yamal,Right Winger,18,€200.00m,FC Barcelona,la-liga
+Roony Bardghji,Right Winger,20,€15.00m,FC Barcelona,la-liga
+Ferran Torres,Centre-Forward,26,€50.00m,FC Barcelona,la-liga
+Robert Lewandowski,Centre-Forward,37,€8.00m,FC Barcelona,la-liga
+Jan Oblak,Goalkeeper,33,€17.00m,Atlético de Madrid,la-liga
+Juan Musso,Goalkeeper,31,€3.00m,Atlético de Madrid,la-liga
+Dávid Hancko,Centre-Back,28,€35.00m,Atlético de Madrid,la-liga
+Marc Pubill,Centre-Back,22,€28.00m,Atlético de Madrid,la-liga
+Robin Le Normand,Centre-Back,29,€25.00m,Atlético de Madrid,la-liga
+José María Giménez,Centre-Back,31,€12.00m,Atlético de Madrid,la-liga
+Clément Lenglet,Centre-Back,30,€5.00m,Atlético de Madrid,la-liga
+Matteo Ruggeri,Left-Back,23,€20.00m,Atlético de Madrid,la-liga
+Marcos Llorente,Right-Back,31,€22.00m,Atlético de Madrid,la-liga
+Nahuel Molina,Right-Back,28,€15.00m,Atlético de Madrid,la-liga
+Pablo Barrios,Central Midfield,22,€60.00m,Atlético de Madrid,la-liga
+Johnny Cardoso,Central Midfield,24,€22.00m,Atlético de Madrid,la-liga
+Rodrigo Mendoza,Central Midfield,21,€20.00m,Atlético de Madrid,la-liga
+Obed Vargas,Central Midfield,20,€8.00m,Atlético de Madrid,la-liga
+Koke,Central Midfield,34,€6.00m,Atlético de Madrid,la-liga
+Álex Baena,Left Winger,24,€45.00m,Atlético de Madrid,la-liga
+Nico González,Left Winger,28,€24.00m,Atlético de Madrid,la-liga
+Thiago Almada,Left Winger,24,€20.00m,Atlético de Madrid,la-liga
+Giuliano Simeone,Right Winger,23,€40.00m,Atlético de Madrid,la-liga
+Ademola Lookman,Second Striker,28,€40.00m,Atlético de Madrid,la-liga
+Antoine Griezmann,Second Striker,35,€10.00m,Atlético de Madrid,la-liga
+Julián Alvarez,Centre-Forward,26,€90.00m,Atlético de Madrid,la-liga
+Alexander Sørloth,Centre-Forward,30,€20.00m,Atlético de Madrid,la-liga
+Luiz Júnior,Goalkeeper,25,€12.00m,Villarreal CF,la-liga
+Diego Conde,Goalkeeper,27,€4.00m,Villarreal CF,la-liga
+Arnau Tenas,Goalkeeper,24,€4.00m,Villarreal CF,la-liga
+Renato Veiga,Centre-Back,22,€25.00m,Villarreal CF,la-liga
+Logan Costa,Centre-Back,25,€18.00m,Villarreal CF,la-liga
+Rafa Marín,Centre-Back,23,€12.00m,Villarreal CF,la-liga
+Juan Foyth,Centre-Back,28,€10.00m,Villarreal CF,la-liga
+Willy Kambwala,Centre-Back,21,€4.00m,Villarreal CF,la-liga
+Sergi Cardona,Left-Back,26,€9.00m,Villarreal CF,la-liga
+Alfonso Pedraza,Left-Back,30,€2.50m,Villarreal CF,la-liga
+Pau Navarro,Right-Back,20,€10.00m,Villarreal CF,la-liga
+Santiago Mouriño,Right-Back,24,€10.00m,Villarreal CF,la-liga
+Alex Freeman,Right-Back,21,€3.50m,Villarreal CF,la-liga
+Thomas Partey,Defensive Midfield,32,€2.50m,Villarreal CF,la-liga
+Pape Gueye,Central Midfield,27,€40.00m,Villarreal CF,la-liga
+Santi Comesaña,Central Midfield,29,€8.00m,Villarreal CF,la-liga
+Carlos Macià,Central Midfield,17,€3.00m,Villarreal CF,la-liga
+Dani Parejo,Central Midfield,36,€1.20m,Villarreal CF,la-liga
+Alberto Moleiro,Left Winger,22,€40.00m,Villarreal CF,la-liga
+Alfon González,Left Winger,26,€3.00m,Villarreal CF,la-liga
+Hugo López,Left Winger,19,€1.00m,Villarreal CF,la-liga
+Tajon Buchanan,Right Winger,27,€12.00m,Villarreal CF,la-liga
+Nicolas Pépé,Right Winger,30,€6.00m,Villarreal CF,la-liga
+Georges Mikautadze,Centre-Forward,25,€28.00m,Villarreal CF,la-liga
+Tani Oluwaseyi,Centre-Forward,25,€8.00m,Villarreal CF,la-liga
+Ayoze Pérez,Centre-Forward,32,€6.00m,Villarreal CF,la-liga
+Gerard Moreno,Centre-Forward,34,€2.80m,Villarreal CF,la-liga
+Pau Cabanes,Centre-Forward,21,€800k,Villarreal CF,la-liga
+Unai Simón,Goalkeeper,28,€25.00m,Athletic Bilbao,la-liga
+Álex Padilla,Goalkeeper,22,€3.00m,Athletic Bilbao,la-liga
+Dani Vivian,Centre-Back,26,€25.00m,Athletic Bilbao,la-liga
+Aitor Paredes,Centre-Back,25,€15.00m,Athletic Bilbao,la-liga
+Aymeric Laporte,Centre-Back,31,€9.00m,Athletic Bilbao,la-liga
+Yeray Álvarez,Centre-Back,31,€1.00m,Athletic Bilbao,la-liga
+Unai Egiluz,Centre-Back,24,€600k,Athletic Bilbao,la-liga
+Adama Boiro,Left-Back,23,€3.00m,Athletic Bilbao,la-liga
+Yuri Berchiche,Left-Back,36,€1.20m,Athletic Bilbao,la-liga
+Jesús Areso,Right-Back,26,€8.00m,Athletic Bilbao,la-liga
+Andoni Gorosabel,Right-Back,29,€4.00m,Athletic Bilbao,la-liga
+Iñigo Lekue,Right-Back,32,€1.20m,Athletic Bilbao,la-liga
+Mikel Vesga,Defensive Midfield,33,€1.50m,Athletic Bilbao,la-liga
+Mikel Jauregizar,Central Midfield,22,€35.00m,Athletic Bilbao,la-liga
+Beñat Prados,Central Midfield,25,€18.00m,Athletic Bilbao,la-liga
+Alejandro Rego,Central Midfield,22,€3.00m,Athletic Bilbao,la-liga
+Selton Sánchez,Central Midfield,19,€3.00m,Athletic Bilbao,la-liga
+Iñigo Ruiz de Galarreta,Central Midfield,32,€2.50m,Athletic Bilbao,la-liga
+Oihan Sancet,Attacking Midfield,25,€35.00m,Athletic Bilbao,la-liga
+Unai Gómez,Attacking Midfield,22,€5.00m,Athletic Bilbao,la-liga
+Nico Williams,Left Winger,23,€50.00m,Athletic Bilbao,la-liga
+Álex Berenguer,Left Winger,30,€5.00m,Athletic Bilbao,la-liga
+Nico Serrano,Left Winger,23,€1.50m,Athletic Bilbao,la-liga
+Iñaki Williams,Right Winger,31,€10.00m,Athletic Bilbao,la-liga
+Robert Navarro,Right Winger,24,€6.00m,Athletic Bilbao,la-liga
+Gorka Guruzeta,Centre-Forward,29,€5.00m,Athletic Bilbao,la-liga
+Maroan Sannadi,Centre-Forward,25,€5.00m,Athletic Bilbao,la-liga
+Urko Izeta,Centre-Forward,26,€1.50m,Athletic Bilbao,la-liga
+Álex Remiro,Goalkeeper,31,€14.00m,Real Sociedad,la-liga
+Unai Marrero,Goalkeeper,24,€600k,Real Sociedad,la-liga
+Jon Martín,Centre-Back,19,€20.00m,Real Sociedad,la-liga
+Igor Zubeldia,Centre-Back,29,€9.00m,Real Sociedad,la-liga
+Duje Caleta-Car,Centre-Back,29,€3.00m,Real Sociedad,la-liga
+Aritz Elustondo,Centre-Back,32,€1.80m,Real Sociedad,la-liga
+Sergio Gómez,Left-Back,25,€15.00m,Real Sociedad,la-liga
+Aihen Muñoz,Left-Back,28,€3.50m,Real Sociedad,la-liga
+Jon Aramburu,Right-Back,23,€15.00m,Real Sociedad,la-liga
+Álvaro Odriozola,Right-Back,30,€800k,Real Sociedad,la-liga
+Jon Gorrotxategi,Defensive Midfield,24,€25.00m,Real Sociedad,la-liga
+Beñat Turrientes,Central Midfield,24,€10.00m,Real Sociedad,la-liga
+Luka Sucic,Central Midfield,23,€10.00m,Real Sociedad,la-liga
+Yangel Herrera,Central Midfield,28,€9.00m,Real Sociedad,la-liga
+Carlos Soler,Central Midfield,29,€8.00m,Real Sociedad,la-liga
+Brais Méndez,Attacking Midfield,29,€12.00m,Real Sociedad,la-liga
+Arsen Zakharyan,Attacking Midfield,22,€10.00m,Real Sociedad,la-liga
+Pablo Marín,Attacking Midfield,22,€8.00m,Real Sociedad,la-liga
+Ander Barrenetxea,Left Winger,24,€18.00m,Real Sociedad,la-liga
+Gonçalo Guedes,Left Winger,29,€6.00m,Real Sociedad,la-liga
+Wesley,Left Winger,21,€5.00m,Real Sociedad,la-liga
+Takefusa Kubo,Right Winger,24,€30.00m,Real Sociedad,la-liga
+Mikel Oyarzabal,Centre-Forward,28,€25.00m,Real Sociedad,la-liga
+Orri Óskarsson,Centre-Forward,21,€12.00m,Real Sociedad,la-liga
+Jon Karrikaburu,Centre-Forward,23,€2.00m,Real Sociedad,la-liga
+Álvaro Valles,Goalkeeper,28,€6.00m,Real Betis Balompié,la-liga
+Pau López,Goalkeeper,31,€2.50m,Real Betis Balompié,la-liga
+Adrián San Miguel,Goalkeeper,39,€400k,Real Betis Balompié,la-liga
+Natan,Centre-Back,25,€25.00m,Real Betis Balompié,la-liga
+Valentín Gómez,Centre-Back,22,€12.00m,Real Betis Balompié,la-liga
+Diego Llorente,Centre-Back,32,€3.00m,Real Betis Balompié,la-liga
+Marc Bartra,Centre-Back,35,€1.00m,Real Betis Balompié,la-liga
+Junior Firpo,Left-Back,29,€5.00m,Real Betis Balompié,la-liga
+Ricardo Rodríguez,Left-Back,33,€1.50m,Real Betis Balompié,la-liga
+Ángel Ortiz,Right-Back,21,€4.00m,Real Betis Balompié,la-liga
+Héctor Bellerín,Right-Back,31,€2.50m,Real Betis Balompié,la-liga
+Sofyan Amrabat,Defensive Midfield,29,€12.00m,Real Betis Balompié,la-liga
+Marc Roca,Defensive Midfield,29,€4.00m,Real Betis Balompié,la-liga
+Sergi Altimira,Central Midfield,24,€20.00m,Real Betis Balompié,la-liga
+Álvaro Fidalgo,Central Midfield,29,€10.00m,Real Betis Balompié,la-liga
+Nelson Deossa,Central Midfield,26,€9.00m,Real Betis Balompié,la-liga
+Pablo Fornals,Central Midfield,30,€8.00m,Real Betis Balompié,la-liga
+Giovani Lo Celso,Attacking Midfield,30,€10.00m,Real Betis Balompié,la-liga
+Isco,Attacking Midfield,33,€4.00m,Real Betis Balompié,la-liga
+Abde Ezzalzouli,Left Winger,24,€30.00m,Real Betis Balompié,la-liga
+Rodrigo Riquelme,Left Winger,26,€6.00m,Real Betis Balompié,la-liga
+Antony,Right Winger,26,€40.00m,Real Betis Balompié,la-liga
+Pablo García,Right Winger,19,€8.00m,Real Betis Balompié,la-liga
+Aitor Ruibal,Right Winger,30,€4.00m,Real Betis Balompié,la-liga
+Cucho Hernández,Centre-Forward,26,€18.00m,Real Betis Balompié,la-liga
+Chimy Ávila,Centre-Forward,32,€1.50m,Real Betis Balompié,la-liga
+Cédric Bakambu,Centre-Forward,35,€1.40m,Real Betis Balompié,la-liga
+Ionuț Radu,Goalkeeper,28,€8.00m,Celta de Vigo,la-liga
+Iván Villar,Goalkeeper,28,€900k,Celta de Vigo,la-liga
+Marc Vidal,Goalkeeper,26,€300k,Celta de Vigo,la-liga
+Javi Rodríguez,Centre-Back,22,€15.00m,Celta de Vigo,la-liga
+Carl Starfelt,Centre-Back,30,€5.00m,Celta de Vigo,la-liga
+Carlos Domínguez,Centre-Back,25,€3.00m,Celta de Vigo,la-liga
+Yoel Lago,Centre-Back,22,€2.50m,Celta de Vigo,la-liga
+Manu Fernández,Centre-Back,24,€1.50m,Celta de Vigo,la-liga
+Marcos Alonso,Centre-Back,35,€1.40m,Celta de Vigo,la-liga
+Joseph Aidoo,Centre-Back,30,€1.00m,Celta de Vigo,la-liga
+Mihailo Ristic,Left-Back,30,€800k,Celta de Vigo,la-liga
+Óscar Mingueza,Right-Back,26,€18.00m,Celta de Vigo,la-liga
+Sergio Carreira,Right-Back,25,€8.00m,Celta de Vigo,la-liga
+Álvaro Núñez,Right-Back,25,€6.00m,Celta de Vigo,la-liga
+Javi Rueda,Right-Back,23,€4.00m,Celta de Vigo,la-liga
+Miguel Román,Central Midfield,23,€15.00m,Celta de Vigo,la-liga
+Ilaix Moriba,Central Midfield,23,€10.00m,Celta de Vigo,la-liga
+Hugo Sotelo,Central Midfield,22,€7.50m,Celta de Vigo,la-liga
+Matías Vecino,Central Midfield,34,€1.50m,Celta de Vigo,la-liga
+Fer López,Attacking Midfield,21,€16.00m,Celta de Vigo,la-liga
+Williot Swedberg,Left Winger,22,€15.00m,Celta de Vigo,la-liga
+Hugo Álvarez,Left Winger,22,€8.00m,Celta de Vigo,la-liga
+Franco Cervi,Left Winger,31,€700k,Celta de Vigo,la-liga
+Jones El-Abdellaoui,Right Winger,20,€8.00m,Celta de Vigo,la-liga
+Ferran Jutglà,Centre-Forward,27,€7.00m,Celta de Vigo,la-liga
+Pablo Durán,Centre-Forward,24,€4.00m,Celta de Vigo,la-liga
+Borja Iglesias,Centre-Forward,33,€3.00m,Celta de Vigo,la-liga
+Iago Aspas,Centre-Forward,38,€1.80m,Celta de Vigo,la-liga
+Julen Agirrezabala,Goalkeeper,25,€15.00m,Valencia CF,la-liga
+Stole Dimitrievski,Goalkeeper,32,€2.00m,Valencia CF,la-liga
+Cristian Rivero,Goalkeeper,28,€100k,Valencia CF,la-liga
+César Tárrega,Centre-Back,24,€12.00m,Valencia CF,la-liga
+José Copete,Centre-Back,26,€5.00m,Valencia CF,la-liga
+Unai Núñez,Centre-Back,29,€3.50m,Valencia CF,la-liga
+Eray Cömert,Centre-Back,28,€2.50m,Valencia CF,la-liga
+Mouctar Diakhaby,Centre-Back,29,€2.00m,Valencia CF,la-liga
+José Gayà,Left-Back,30,€5.00m,Valencia CF,la-liga
+Jesús Vázquez,Left-Back,23,€4.00m,Valencia CF,la-liga
+Thierry Correia,Right-Back,27,€3.00m,Valencia CF,la-liga
+Renzo Saravia,Right-Back,32,€1.50m,Valencia CF,la-liga
+Dimitri Foulquier,Right-Back,33,€1.00m,Valencia CF,la-liga
+Pepelu,Defensive Midfield,27,€9.00m,Valencia CF,la-liga
+Guido Rodríguez,Defensive Midfield,32,€5.00m,Valencia CF,la-liga
+Baptiste Santamaria,Defensive Midfield,31,€3.00m,Valencia CF,la-liga
+Javi Guerra,Central Midfield,22,€25.00m,Valencia CF,la-liga
+Filip Ugrinic,Central Midfield,27,€6.00m,Valencia CF,la-liga
+André Almeida,Attacking Midfield,25,€7.50m,Valencia CF,la-liga
+Largie Ramazani,Left Winger,25,€8.00m,Valencia CF,la-liga
+Arnaut Danjuma,Left Winger,29,€4.00m,Valencia CF,la-liga
+Diego López,Right Winger,23,€12.00m,Valencia CF,la-liga
+Luis Rioja,Right Winger,32,€2.00m,Valencia CF,la-liga
+Dani Raba,Second Striker,30,€1.50m,Valencia CF,la-liga
+Hugo Duro,Centre-Forward,26,€12.00m,Valencia CF,la-liga
+Lucas Beltrán,Centre-Forward,25,€8.00m,Valencia CF,la-liga
+Umar Sadiq,Centre-Forward,29,€4.00m,Valencia CF,la-liga
+Marc-André ter Stegen,Goalkeeper,33,€4.00m,Girona FC,la-liga
+Paulo Gazzaniga,Goalkeeper,34,€2.00m,Girona FC,la-liga
+Rubén Blanco,Goalkeeper,30,€800k,Girona FC,la-liga
+Vladyslav Krapyvtsov,Goalkeeper,20,€400k,Girona FC,la-liga
+Juan Carlos,Goalkeeper,38,€100k,Girona FC,la-liga
+Vitor Reis,Centre-Back,20,€30.00m,Girona FC,la-liga
+Alejandro Francés,Centre-Back,23,€3.00m,Girona FC,la-liga
+Daley Blind,Centre-Back,36,€1.40m,Girona FC,la-liga
+David López,Centre-Back,36,€800k,Girona FC,la-liga
+Álex Moreno,Left-Back,32,€3.50m,Girona FC,la-liga
+Arnau Martínez,Right-Back,22,€10.00m,Girona FC,la-liga
+Hugo Rincón,Right-Back,23,€3.50m,Girona FC,la-liga
+Axel Witsel,Defensive Midfield,37,€1.40m,Girona FC,la-liga
+Azzedine Ounahi,Central Midfield,25,€10.00m,Girona FC,la-liga
+Iván Martín,Central Midfield,27,€6.00m,Girona FC,la-liga
+Fran Beltrán,Central Midfield,27,€5.00m,Girona FC,la-liga
+Donny van de Beek,Central Midfield,28,€2.00m,Girona FC,la-liga
+Lass Kourouma,Central Midfield,22,€500k,Girona FC,la-liga
+Claudio Echeverri,Attacking Midfield,20,€15.00m,Girona FC,la-liga
+Thomas Lemar,Attacking Midfield,30,€2.00m,Girona FC,la-liga
+Bryan Gil,Left Winger,25,€12.00m,Girona FC,la-liga
+Joel Roca,Left Winger,20,€5.00m,Girona FC,la-liga
+Viktor Tsygankov,Right Winger,28,€15.00m,Girona FC,la-liga
+Portu,Right Winger,33,€1.50m,Girona FC,la-liga
+Vladyslav Vanat,Centre-Forward,24,€15.00m,Girona FC,la-liga
+Abel Ruiz,Centre-Forward,26,€2.50m,Girona FC,la-liga
+Cristhian Stuani,Centre-Forward,39,€800k,Girona FC,la-liga
+Odysseas Vlachodimos,Goalkeeper,31,€4.00m,Sevilla FC,la-liga
+Ørjan Nyland,Goalkeeper,35,€900k,Sevilla FC,la-liga
+Kike Salas,Centre-Back,23,€8.00m,Sevilla FC,la-liga
+Marcão,Centre-Back,29,€2.50m,Sevilla FC,la-liga
+Fábio Cardoso,Centre-Back,31,€2.00m,Sevilla FC,la-liga
+Andrés Castrín,Centre-Back,22,€1.50m,Sevilla FC,la-liga
+Tanguy Nianzou,Centre-Back,23,€1.40m,Sevilla FC,la-liga
+César Azpilicueta,Centre-Back,36,€1.20m,Sevilla FC,la-liga
+Federico Gattoni,Centre-Back,27,€1.00m,Sevilla FC,la-liga
+Gabriel Suazo,Left-Back,28,€7.00m,Sevilla FC,la-liga
+Oso,Left-Back,22,€5.00m,Sevilla FC,la-liga
+Juanlu Sánchez,Right-Back,22,€15.00m,Sevilla FC,la-liga
+José Ángel Carmona,Right-Back,24,€12.00m,Sevilla FC,la-liga
+Lucien Agoumé,Defensive Midfield,24,€12.00m,Sevilla FC,la-liga
+Batista Mendy,Defensive Midfield,26,€10.00m,Sevilla FC,la-liga
+Nemanja Gudelj,Defensive Midfield,34,€2.50m,Sevilla FC,la-liga
+Djibril Sow,Central Midfield,29,€7.50m,Sevilla FC,la-liga
+Joan Jordán,Central Midfield,31,€2.00m,Sevilla FC,la-liga
+Manu Bueno,Central Midfield,21,€1.50m,Sevilla FC,la-liga
+Rubén Vargas,Left Winger,27,€12.00m,Sevilla FC,la-liga
+Chidera Ejuke,Left Winger,28,€4.00m,Sevilla FC,la-liga
+Adnan Januzaj,Right Winger,31,€1.20m,Sevilla FC,la-liga
+Miguel Ángel Sierra,Right Winger,21,€300k,Sevilla FC,la-liga
+Peque Fernández,Second Striker,23,€3.50m,Sevilla FC,la-liga
+Alexis Sánchez,Second Striker,37,€1.40m,Sevilla FC,la-liga
+Akor Adams,Centre-Forward,26,€12.00m,Sevilla FC,la-liga
+Isaac Romero,Centre-Forward,25,€5.00m,Sevilla FC,la-liga
+Neal Maupay,Centre-Forward,29,€4.00m,Sevilla FC,la-liga
+Marko Dmitrovic,Goalkeeper,34,€800k,RCD Espanyol Barcelona,la-liga
+Ángel Fortuño,Goalkeeper,24,€300k,RCD Espanyol Barcelona,la-liga
+Clemens Riedel,Centre-Back,22,€5.00m,RCD Espanyol Barcelona,la-liga
+Fernando Calero,Centre-Back,30,€2.00m,RCD Espanyol Barcelona,la-liga
+Miguel Rubio,Centre-Back,28,€2.00m,RCD Espanyol Barcelona,la-liga
+Leandro Cabrera,Centre-Back,34,€1.00m,RCD Espanyol Barcelona,la-liga
+Carlos Romero,Left-Back,24,€25.00m,RCD Espanyol Barcelona,la-liga
+José Salinas,Left-Back,25,€2.80m,RCD Espanyol Barcelona,la-liga
+Omar El Hilali,Right-Back,22,€15.00m,RCD Espanyol Barcelona,la-liga
+Rubén Sánchez,Right-Back,25,€1.50m,RCD Espanyol Barcelona,la-liga
+Urko González de Zárate,Defensive Midfield,25,€10.00m,RCD Espanyol Barcelona,la-liga
+Charles Pickel,Defensive Midfield,28,€2.50m,RCD Espanyol Barcelona,la-liga
+Pol Lozano,Central Midfield,26,€6.00m,RCD Espanyol Barcelona,la-liga
+Edu Expósito,Central Midfield,29,€5.00m,RCD Espanyol Barcelona,la-liga
+Ramón Terrats,Central Midfield,25,€3.00m,RCD Espanyol Barcelona,la-liga
+Javi Puado,Left Winger,27,€7.50m,RCD Espanyol Barcelona,la-liga
+Pere Milla,Left Winger,33,€1.20m,RCD Espanyol Barcelona,la-liga
+Tyrhys Dolan,Right Winger,24,€10.00m,RCD Espanyol Barcelona,la-liga
+Cyril Ngonge,Right Winger,25,€8.00m,RCD Espanyol Barcelona,la-liga
+Jofre Carreras,Right Winger,24,€3.00m,RCD Espanyol Barcelona,la-liga
+Antoniu Roca,Right Winger,23,€1.80m,RCD Espanyol Barcelona,la-liga
+Roberto Fernández,Centre-Forward,23,€10.00m,RCD Espanyol Barcelona,la-liga
+Kike García,Centre-Forward,36,€800k,RCD Espanyol Barcelona,la-liga
+Augusto Batalla,Goalkeeper,29,€6.00m,Rayo Vallecano,la-liga
+Dani Cárdenas,Goalkeeper,29,€1.80m,Rayo Vallecano,la-liga
+Nobel Mendy,Centre-Back,21,€6.00m,Rayo Vallecano,la-liga
+Abdul Mumin,Centre-Back,27,€4.00m,Rayo Vallecano,la-liga
+Luiz Felipe,Centre-Back,29,€3.00m,Rayo Vallecano,la-liga
+Jozhua Vertrouwd,Centre-Back,21,€2.50m,Rayo Vallecano,la-liga
+Florian Lejeune,Centre-Back,34,€2.00m,Rayo Vallecano,la-liga
+Pep Chavarría,Left-Back,28,€10.00m,Rayo Vallecano,la-liga
+Alfonso Espino,Left-Back,34,€1.00m,Rayo Vallecano,la-liga
+Andrei Rațiu,Right-Back,27,€18.00m,Rayo Vallecano,la-liga
+Iván Balliu,Right-Back,34,€1.20m,Rayo Vallecano,la-liga
+Gerard Gumbau,Defensive Midfield,31,€1.40m,Rayo Vallecano,la-liga
+Pedro Díaz,Central Midfield,27,€3.00m,Rayo Vallecano,la-liga
+Unai López,Central Midfield,30,€2.50m,Rayo Vallecano,la-liga
+Óscar Valentín,Central Midfield,31,€2.20m,Rayo Vallecano,la-liga
+Pathé Ciss,Central Midfield,32,€2.00m,Rayo Vallecano,la-liga
+Samu Becerra,Central Midfield,19,€300k,Rayo Vallecano,la-liga
+Randy Nteka,Attacking Midfield,28,€1.20m,Rayo Vallecano,la-liga
+Óscar Trejo,Attacking Midfield,37,€400k,Rayo Vallecano,la-liga
+Carlos Martín,Left Winger,23,€2.00m,Rayo Vallecano,la-liga
+Álvaro García,Left Winger,33,€1.80m,Rayo Vallecano,la-liga
+Ilias Akhomach,Right Winger,21,€12.00m,Rayo Vallecano,la-liga
+Jorge de Frutos,Right Winger,29,€12.00m,Rayo Vallecano,la-liga
+Fran Pérez,Right Winger,23,€3.00m,Rayo Vallecano,la-liga
+Isi Palazón,Second Striker,31,€3.00m,Rayo Vallecano,la-liga
+Alemão,Centre-Forward,28,€3.00m,Rayo Vallecano,la-liga
+Sergio Camello,Centre-Forward,25,€2.00m,Rayo Vallecano,la-liga
+Sergio Herrera,Goalkeeper,32,€3.00m,CA Osasuna,la-liga
+Aitor Fernández,Goalkeeper,34,€600k,CA Osasuna,la-liga
+Enzo Boyomo,Centre-Back,24,€20.00m,CA Osasuna,la-liga
+Jorge Herrando,Centre-Back,25,€4.00m,CA Osasuna,la-liga
+Alejandro Catena,Centre-Back,31,€2.80m,CA Osasuna,la-liga
+Abel Bretones,Left-Back,25,€4.00m,CA Osasuna,la-liga
+Javi Galán,Left-Back,31,€2.00m,CA Osasuna,la-liga
+Juan Cruz,Left-Back,33,€1.20m,CA Osasuna,la-liga
+Valentin Rosier,Right-Back,29,€3.00m,CA Osasuna,la-liga
+Iñigo Arguibide,Right-Back,20,€800k,CA Osasuna,la-liga
+Lucas Torró,Defensive Midfield,31,€2.80m,CA Osasuna,la-liga
+Iker Muñoz,Defensive Midfield,23,€2.00m,CA Osasuna,la-liga
+Jon Moncayola,Central Midfield,27,€7.00m,CA Osasuna,la-liga
+Asier Osambela,Central Midfield,21,€1.00m,CA Osasuna,la-liga
+Aimar Oroz,Attacking Midfield,24,€9.00m,CA Osasuna,la-liga
+Moi Gómez,Attacking Midfield,31,€1.80m,CA Osasuna,la-liga
+Víctor Muñoz,Left Winger,22,€20.00m,CA Osasuna,la-liga
+Raúl Moro,Left Winger,23,€5.00m,CA Osasuna,la-liga
+Rubén García,Right Winger,32,€1.80m,CA Osasuna,la-liga
+Iker Benito,Right Winger,23,€1.50m,CA Osasuna,la-liga
+Kike Barja,Right Winger,29,€1.50m,CA Osasuna,la-liga
+Raúl García,Centre-Forward,25,€3.00m,CA Osasuna,la-liga
+Ante Budimir,Centre-Forward,34,€3.00m,CA Osasuna,la-liga
+Leo Román,Goalkeeper,25,€6.00m,RCD Mallorca,la-liga
+Lucas Bergström,Goalkeeper,23,€1.50m,RCD Mallorca,la-liga
+Iván Cuéllar,Goalkeeper,41,€100k,RCD Mallorca,la-liga
+Martin Valjent,Centre-Back,30,€4.50m,RCD Mallorca,la-liga
+Marash Kumbulla,Centre-Back,26,€4.00m,RCD Mallorca,la-liga
+Antonio Raíllo,Centre-Back,34,€1.50m,RCD Mallorca,la-liga
+David López,Centre-Back,23,€1.20m,RCD Mallorca,la-liga
+Johan Mojica,Left-Back,33,€1.80m,RCD Mallorca,la-liga
+Toni Lato,Left-Back,28,€1.50m,RCD Mallorca,la-liga
+Pablo Maffeo,Right-Back,28,€5.00m,RCD Mallorca,la-liga
+Mateu Morey,Right-Back,26,€1.50m,RCD Mallorca,la-liga
+Samú Costa,Defensive Midfield,25,€15.00m,RCD Mallorca,la-liga
+Omar Mascarell,Defensive Midfield,33,€800k,RCD Mallorca,la-liga
+Sergi Darder,Central Midfield,32,€3.50m,RCD Mallorca,la-liga
+Antonio Sánchez,Central Midfield,28,€2.40m,RCD Mallorca,la-liga
+Manu Morlanes,Central Midfield,27,€2.40m,RCD Mallorca,la-liga
+Jan Salas,Central Midfield,20,€500k,RCD Mallorca,la-liga
+Pablo Torre,Attacking Midfield,23,€5.00m,RCD Mallorca,la-liga
+Jan Virgili,Left Winger,19,€15.00m,RCD Mallorca,la-liga
+Javi Llabrés,Left Winger,23,€800k,RCD Mallorca,la-liga
+Zito Luvumbo,Right Winger,24,€3.50m,RCD Mallorca,la-liga
+Takuma Asano,Right Winger,31,€1.80m,RCD Mallorca,la-liga
+Justin Kalumba,Right Winger,21,€800k,RCD Mallorca,la-liga
+Vedat Muriqi,Centre-Forward,31,€4.50m,RCD Mallorca,la-liga
+Mateo Joseph,Centre-Forward,22,€3.50m,RCD Mallorca,la-liga
+Abdón Prats,Centre-Forward,33,€900k,RCD Mallorca,la-liga
+Mathew Ryan,Goalkeeper,34,€2.00m,Levante UD,la-liga
+Pablo Campos,Goalkeeper,23,€1.50m,Levante UD,la-liga
+Álex Primo,Goalkeeper,21,N/A,Levante UD,la-liga
+Matías Moreno,Centre-Back,22,€4.00m,Levante UD,la-liga
+Alan Matturro,Centre-Back,21,€4.00m,Levante UD,la-liga
+Adrián Dela,Centre-Back,27,€3.00m,Levante UD,la-liga
+Unai Elgezabal,Centre-Back,32,€600k,Levante UD,la-liga
+Manu Sánchez,Left-Back,25,€6.00m,Levante UD,la-liga
+Diego Pampín,Left-Back,26,€1.00m,Levante UD,la-liga
+Jeremy Toljan,Right-Back,31,€2.20m,Levante UD,la-liga
+Víctor García,Right-Back,28,€1.00m,Levante UD,la-liga
+Ugo Raghouber,Defensive Midfield,22,€3.00m,Levante UD,la-liga
+Oriol Rey,Defensive Midfield,28,€1.80m,Levante UD,la-liga
+Kervin Arriaga,Defensive Midfield,28,€1.50m,Levante UD,la-liga
+Pablo Martínez,Central Midfield,28,€2.00m,Levante UD,la-liga
+Jon Ander Olasagasti,Central Midfield,25,€1.80m,Levante UD,la-liga
+Unai Vencedor,Central Midfield,25,€1.80m,Levante UD,la-liga
+Carlos Álvarez,Attacking Midfield,22,€15.00m,Levante UD,la-liga
+Roger Brugué,Left Winger,29,€2.00m,Levante UD,la-liga
+Paco Cortés,Left Winger,18,€1.00m,Levante UD,la-liga
+Kareem Tunde,Right Winger,20,€1.00m,Levante UD,la-liga
+Tay Abed,Right Winger,21,€800k,Levante UD,la-liga
+Iker Losada,Second Striker,24,€1.40m,Levante UD,la-liga
+Karl Etta Eyong,Centre-Forward,22,€18.00m,Levante UD,la-liga
+Iván Romero,Centre-Forward,25,€7.50m,Levante UD,la-liga
+Carlos Espí,Centre-Forward,20,€2.50m,Levante UD,la-liga
+José Luis Morales,Centre-Forward,38,€300k,Levante UD,la-liga
+Iñaki Peña,Goalkeeper,27,€5.00m,Elche CF,la-liga
+Alejandro Iturbe,Goalkeeper,22,€1.50m,Elche CF,la-liga
+Matías Dituro,Goalkeeper,38,€200k,Elche CF,la-liga
+David Affengruber,Centre-Back,25,€9.00m,Elche CF,la-liga
+Víctor Chust,Centre-Back,26,€4.00m,Elche CF,la-liga
+John Donald,Centre-Back,25,€1.00m,Elche CF,la-liga
+Pedro Bigas,Centre-Back,35,€400k,Elche CF,la-liga
+Adrià Pedrosa,Left-Back,27,€3.00m,Elche CF,la-liga
+Léo Pétrot,Left-Back,28,€1.50m,Elche CF,la-liga
+Héctor Fort,Right-Back,19,€12.00m,Elche CF,la-liga
+Buba Sangaré,Right-Back,18,€1.00m,Elche CF,la-liga
+Federico Redondo,Defensive Midfield,23,€3.50m,Elche CF,la-liga
+Marc Aguado,Defensive Midfield,26,€3.50m,Elche CF,la-liga
+Aleix Febas,Central Midfield,30,€5.00m,Elche CF,la-liga
+Martim Neto,Central Midfield,23,€5.00m,Elche CF,la-liga
+Gonzalo Villar,Central Midfield,28,€1.80m,Elche CF,la-liga
+Germán Valera,Left Winger,24,€6.00m,Elche CF,la-liga
+Lucas Cepeda,Left Winger,23,€3.50m,Elche CF,la-liga
+Tete Morente,Left Winger,29,€1.80m,Elche CF,la-liga
+Yago Santiago,Left Winger,22,€1.00m,Elche CF,la-liga
+Grady Diangana,Right Winger,27,€2.50m,Elche CF,la-liga
+Josan,Right Winger,36,€100k,Elche CF,la-liga
+Adam Boayar,Second Striker,20,€800k,Elche CF,la-liga
+Álvaro Rodríguez,Centre-Forward,21,€5.00m,Elche CF,la-liga
+Rafa Mir,Centre-Forward,28,€4.00m,Elche CF,la-liga
+André Silva,Centre-Forward,30,€3.00m,Elche CF,la-liga
+Antonio Sivera,Goalkeeper,29,€6.00m,Deportivo Alavés,la-liga
+Raúl Fernández,Goalkeeper,38,€200k,Deportivo Alavés,la-liga
+Jon Pacheco,Centre-Back,25,€6.00m,Deportivo Alavés,la-liga
+Ville Koski,Centre-Back,24,€1.50m,Deportivo Alavés,la-liga
+Facundo Garcés,Centre-Back,26,N/A,Deportivo Alavés,la-liga
+Youssef Enríquez,Left-Back,20,€5.00m,Deportivo Alavés,la-liga
+Victor Parada,Left-Back,24,€2.00m,Deportivo Alavés,la-liga
+Nahuel Tenaglia,Right-Back,30,€3.00m,Deportivo Alavés,la-liga
+Jonny Otto,Right-Back,32,€2.50m,Deportivo Alavés,la-liga
+Antonio Blanco,Defensive Midfield,25,€10.00m,Deportivo Alavés,la-liga
+Carlos Protesoni,Defensive Midfield,28,€1.00m,Deportivo Alavés,la-liga
+Pablo Ibáñez,Central Midfield,27,€4.00m,Deportivo Alavés,la-liga
+Carles Aleñá,Central Midfield,28,€3.50m,Deportivo Alavés,la-liga
+Ander Guevara,Central Midfield,28,€3.00m,Deportivo Alavés,la-liga
+Jon Guridi,Central Midfield,31,€2.00m,Deportivo Alavés,la-liga
+Calebe,Attacking Midfield,25,€2.00m,Deportivo Alavés,la-liga
+Denis Suárez,Attacking Midfield,32,€1.20m,Deportivo Alavés,la-liga
+Abde Rebbach,Left Winger,27,€1.50m,Deportivo Alavés,la-liga
+Ángel Pérez,Right Winger,23,€1.00m,Deportivo Alavés,la-liga
+Lucas Boyé,Centre-Forward,30,€5.00m,Deportivo Alavés,la-liga
+Toni Martínez,Centre-Forward,28,€4.00m,Deportivo Alavés,la-liga
+Ibrahim Diabate,Centre-Forward,26,€1.50m,Deportivo Alavés,la-liga
+Aitor Mañas,Centre-Forward,23,€600k,Deportivo Alavés,la-liga
+Mariano Díaz,Centre-Forward,32,€400k,Deportivo Alavés,la-liga
+Aarón Escandell,Goalkeeper,30,€3.00m,Real Oviedo,la-liga
+Horațiu Moldovan,Goalkeeper,28,€2.00m,Real Oviedo,la-liga
+David Carmo,Centre-Back,26,€8.00m,Real Oviedo,la-liga
+Eric Bailly,Centre-Back,32,€1.50m,Real Oviedo,la-liga
+David Costas,Centre-Back,31,€1.40m,Real Oviedo,la-liga
+Dani Calvo,Centre-Back,32,€1.00m,Real Oviedo,la-liga
+Javi López,Left-Back,24,€5.00m,Real Oviedo,la-liga
+Rahim Alhassane,Left-Back,24,€2.00m,Real Oviedo,la-liga
+Nacho Vidal,Right-Back,31,€1.60m,Real Oviedo,la-liga
+Lucas Ahijado,Right-Back,31,€700k,Real Oviedo,la-liga
+Santiago Colombatto,Defensive Midfield,29,€3.00m,Real Oviedo,la-liga
+Leander Dendoncker,Defensive Midfield,30,€3.00m,Real Oviedo,la-liga
+Nicolás Fonseca,Defensive Midfield,27,€3.00m,Real Oviedo,la-liga
+Alberto Reina,Central Midfield,28,€2.00m,Real Oviedo,la-liga
+Kwasi Sibo,Central Midfield,27,€1.50m,Real Oviedo,la-liga
+Santi Cazorla,Central Midfield,41,€200k,Real Oviedo,la-liga
+Luka Ilic,Attacking Midfield,26,€1.80m,Real Oviedo,la-liga
+Pablo Agudín,Attacking Midfield,18,€800k,Real Oviedo,la-liga
+Thiago Fernández,Left Winger,22,€4.50m,Real Oviedo,la-liga
+Ilyas Chaira,Left Winger,25,€4.00m,Real Oviedo,la-liga
+Ovie Ejaria,Left Winger,28,€500k,Real Oviedo,la-liga
+Haissem Hassan,Right Winger,24,€4.00m,Real Oviedo,la-liga
+Federico Viñas,Centre-Forward,27,€4.00m,Real Oviedo,la-liga
+Thiago Borbas,Centre-Forward,24,€4.00m,Real Oviedo,la-liga
+Álex Forés,Centre-Forward,25,€800k,Real Oviedo,la-liga
