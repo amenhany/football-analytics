@@ -655,10 +655,21 @@ elif page == "🔍  Player Explorer":
         with f1: search   = st.text_input("Search", placeholder="Player name or team...")
         with f2:
             pos_opts = ["All Positions"] + sorted(df_pool["Position"].dropna().unique().tolist())
-            sel_pos  = st.selectbox("Position", pos_opts)
+            sel_pos  = st.selectbox("Position", pos_opts, key="explorer_pos")
+
+        # Reset role selection when position changes to avoid invalid selectbox value
+        prev_pos = st.session_state.get("_prev_pos", "All Positions")
+        if sel_pos != prev_pos:
+            st.session_state["explorer_role"] = "All Roles"
+            st.session_state["_prev_pos"] = sel_pos
+
         with f3:
-            role_opts = ["All Roles"] + sorted(df_pool["Tactical_Role"].dropna().unique().tolist())
-            sel_role  = st.selectbox("Tactical Role", role_opts)
+            if sel_pos != "All Positions":
+                pos_roles = df_pool[df_pool["Position"] == sel_pos]["Tactical_Role"].dropna().unique().tolist()
+                role_opts = ["All Roles"] + sorted(pos_roles)
+            else:
+                role_opts = ["All Roles"] + sorted(df_pool["Tactical_Role"].dropna().unique().tolist())
+            sel_role = st.selectbox("Tactical Role", role_opts, key="explorer_role")
         with f4:
             min_age, max_age = int(df_pool["Age"].min()), int(df_pool["Age"].max())
             age_range = st.slider("Age Range", min_age, max_age, (min_age, max_age))
@@ -1500,6 +1511,10 @@ elif page == "🔁  Player Similarity":
         )
         compare_idx = int(compare_with_idx.split(" — ")[0].strip("#")) - 1
         compare_sim_row = sim_df.iloc[compare_idx]
+        compare_name = compare_sim_row.get("Name")
+        # sim_df only holds a subset of columns, fetch the full row for stats
+        cmp_matches = df_all[df_all["Name"] == compare_name]
+        compare_full_row = cmp_matches.iloc[0] if not cmp_matches.empty else compare_sim_row
 
         # Build pool for normalization (same position if possible)
         ref_pos_val = ref_row.get("Position", None)
@@ -1509,8 +1524,8 @@ elif page == "🔁  Player Similarity":
             radar_pool = df_all
 
         radar_rows = {
-            sim_player:                  ref_row,
-            compare_sim_row.get("Name"): compare_sim_row,
+            sim_player:   ref_row,
+            compare_name: compare_full_row,
         }
 
         fig_radar = build_radar_fig(radar_pool, radar_rows, selected_radar, ["#bc8cff", "#ffd740"])
@@ -1522,22 +1537,3 @@ elif page == "🔁  Player Similarity":
                 x=0.5
             ))
             st.plotly_chart(fig_radar, use_container_width=True)
-
-        # Stat-by-stat delta table
-        section_header("Stat Comparison", "Key differences between the two players")
-        delta_stats = [m for m in selected_radar if m in df_all.columns]
-        delta_rows = []
-        for stat in delta_stats:
-            ref_val = pd.to_numeric(ref_row.get(stat, np.nan), errors="coerce")
-            cmp_val = pd.to_numeric(compare_sim_row.get(stat, np.nan), errors="coerce")
-            if pd.notna(ref_val) and pd.notna(cmp_val):
-                delta = cmp_val - ref_val
-                delta_rows.append({
-                    "Stat": stat.replace(" (Per90)", "/90").replace("Pass Completion Rate", "Pass%"),
-                    sim_player:                       f"{ref_val:.2f}",
-                    compare_sim_row.get("Name", "?"): f"{cmp_val:.2f}",
-                    "Δ": f"{'+' if delta >= 0 else ''}{delta:.2f}",
-                })
-        if delta_rows:
-            delta_df = pd.DataFrame(delta_rows)
-            st.dataframe(delta_df, use_container_width=True, hide_index=True, height=300)
