@@ -180,7 +180,7 @@ THEME = dict(
     title_font=dict(family="Bebas Neue, sans-serif", color="#e8edf2", size=18),
 )
 
-# ── Data loading ───────────────────────────────────────────────────────────
+# Data loading 
 @st.cache_data
 def load_data():
     base_clean = "data/clean"
@@ -230,7 +230,7 @@ def load_data():
         df["League_Label"] = df["League"].map(league_map).fillna(df["League"])
     df_gk["League_Label"] = df_gk["League"].map(league_map).fillna(df_gk["League"])
 
-    # ── Build combined dataset for similarity engine ───────────────────────
+    #  Build combined dataset for similarity engine 
     # Add GK_Role column to outfield with NaN, and Tactical_Role to GK with NaN
     df_full_sim = df_full.copy()
     df_gk_sim   = df_gk.copy()
@@ -254,7 +254,7 @@ def load_data():
 
 df_master, df_full, df_gk, df_pred, pos_dfs, df_all = load_data()
 
-# ── Feature columns for similarity ────────────────────────────────────────
+#  Feature columns for similarity 
 PER90_COLS   = [c for c in df_all.columns if "Per90" in c]
 RATE_COLS    = [c for c in df_all.columns if any(k in c for k in ["Rate", "Accuracy", "Percentage"]) and "Per90" not in c]
 FEATURE_COLS = [c for c in PER90_COLS + RATE_COLS if c in df_all.columns]
@@ -275,7 +275,7 @@ RADAR_METRICS = [
 ]
 RADAR_METRICS = [m for m in RADAR_METRICS if m in df_all.columns]
 
-# ── Formatting helpers ─────────────────────────────────────────────────────
+#  Formatting helpers 
 def fmt_val(v):
     if pd.isna(v): return "N/A"
     if v >= 1e9:   return f"€{v/1e9:.2f}B"
@@ -338,7 +338,7 @@ def scout_player_card(row, badge_label, badge_color, stat_line):
         f"</div>"
     )
 
-# ── Similarity engine ──────────────────────────────────────────────────────
+#  Similarity engine 
 def find_similar_players(df, player_name, top_n=10, same_position=False,
                          positions=None, leagues=None, max_age=None,
                          min_minutes=None, max_market_value=None, feature_cols=None):
@@ -386,7 +386,7 @@ def find_similar_players(df, player_name, top_n=10, same_position=False,
     out_cols = [c for c in out_cols if c in pool.columns]
     return ref, pool[out_cols].head(top_n)
 
-# ── Radar comparison chart ─────────────────────────────────────────────────
+#  Radar comparison chart 
 def build_radar_fig(df_pool, rows_dict, stat_cols, colors):
     """
     rows_dict: {player_name: row_series}
@@ -448,7 +448,7 @@ def build_radar_fig(df_pool, rows_dict, stat_cols, colors):
     fig.update_layout(**layout)
     return fig
 
-# ── Performance vs Market Value scatter (from notebook) ───────────────────
+#  Performance vs Market Value scatter 
 def build_perf_vs_value_fig(df, color_col="Trad_Position"):
     """
     Quadrant scatter: Role Performance Score vs Market Value (€M)
@@ -540,7 +540,7 @@ def build_perf_vs_value_fig(df, color_col="Trad_Position"):
     return fig, median_perf, median_value
 
 
-# ── Sidebar ────────────────────────────────────────────────────────────────
+#  Sidebar 
 with st.sidebar:
     st.markdown(
         "<div style='padding:1.5rem 0.5rem 1rem 0.5rem;border-bottom:1px solid #1e2a38;margin-bottom:1rem'>"
@@ -575,9 +575,9 @@ if sel_league != "All":
     df_full_base = df_full_base[df_full_base["League_Label"] == sel_league]
 
 
-# ══════════════════════════════════════════════════════════════════════════
+
 # PAGE 1 — OVERVIEW
-# ══════════════════════════════════════════════════════════════════════════
+
 if page == "🏠  Overview":
     total_players = len(df_full) + len(df_gk)
     total_mv      = (df_full["Market Value"].sum() + df_gk["Market Value"].sum()) / 1e9
@@ -641,9 +641,9 @@ if page == "🏠  Overview":
     ds2.markdown("<div style='background:#0f1419;border:1px solid #1e2a38;border-radius:10px;padding:1rem 1.2rem'><div style='font-size:0.62rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#5a6a7a;margin-bottom:6px'>Coverage</div><div style='font-family:Bebas Neue,sans-serif;font-size:1rem;color:#e8edf2;letter-spacing:0.05em'>Premier League &amp; La Liga · 2025/26</div></div>", unsafe_allow_html=True)
 
 
-# ══════════════════════════════════════════════════════════════════════════
+
 # PAGE 2 — PLAYER EXPLORER
-# ══════════════════════════════════════════════════════════════════════════
+
 elif page == "🔍  Player Explorer":
     section_header("Player Explorer", "Browse, filter and search the full player database")
     mode = st.radio("Player Type", ["⚽ Outfield Players", "🥅 Goalkeepers"], horizontal=True, label_visibility="collapsed")
@@ -763,9 +763,9 @@ elif page == "🔍  Player Explorer":
         s4.markdown(card("Shot Stoppers",    f"{ss}", f"{len(df_gk_exp)-ss} Sweeper Keepers"),   unsafe_allow_html=True)
 
 
-# ══════════════════════════════════════════════════════════════════════════
+
 # PAGE 3 — PLAYER PROFILE  (with enhanced radar + comparison)
-# ══════════════════════════════════════════════════════════════════════════
+
 elif page == "👤  Player Profile":
     section_header("Player Profile", "Deep dive into any player's stats, radar, and comparisons")
 
@@ -820,7 +820,7 @@ elif page == "👤  Player Profile":
 
     st.markdown("<div style='margin-top:1.5rem'></div>", unsafe_allow_html=True)
 
-    # ── ENHANCED RADAR SECTION ─────────────────────────────────────────────
+    #  ENHANCED RADAR SECTION 
     col_l, col_r = st.columns([3, 2])
 
     with col_l:
@@ -836,7 +836,7 @@ elif page == "👤  Player Profile":
                 for m in available_radar
             }
 
-            # ── Stat selection ─────────────────────────────────────────────
+            #  Stat selection 
             selected_stats = st.multiselect(
                 "Choose Stats (4–10)",
                 options=available_radar,
@@ -847,7 +847,7 @@ elif page == "👤  Player Profile":
             if len(selected_stats) < 3:
                 st.warning("Select at least 3 stats to display the radar.")
             else:
-                # ── Comparison player selection ────────────────────────────
+                #  Comparison player selection 
                 compare_opts = ["None"] + sorted(
                     df_full[df_full["Name"] != sel_name]["Name"].dropna().unique().tolist()
                 )
@@ -980,7 +980,7 @@ elif page == "👤  Player Profile":
                 unsafe_allow_html=True
             )
 
-    # ── Full Stats Breakdown ───────────────────────────────────────────────
+    #  Full Stats Breakdown 
     st.markdown("<div style='margin-top:1.5rem'></div>", unsafe_allow_html=True)
     section_header("Full Stats Breakdown")
 
@@ -1085,9 +1085,9 @@ elif page == "👤  Player Profile":
                 + "</table>", unsafe_allow_html=True)
 
 
-# ══════════════════════════════════════════════════════════════════════════
+
 # PAGE 4 — SCOUTING REPORT
-# ══════════════════════════════════════════════════════════════════════════
+
 elif page == "🕵️  Scouting Report":
     st.markdown(
         "<div style='padding:2rem 0 1.2rem 0;border-bottom:1px solid #1e2a38;margin-bottom:2rem'>"
@@ -1196,9 +1196,9 @@ elif page == "🕵️  Scouting Report":
                     f"Save % <strong style='color:#00e676'>{sp_str}</strong> &nbsp;·&nbsp; Clean Sheets {cs} &nbsp;·&nbsp; Score {score_val:.1f}"), unsafe_allow_html=True)
 
 
-# ══════════════════════════════════════════════════════════════════════════
+
 # PAGE 5 — MARKET VALUES  (with quadrant scatter from notebooks)
-# ══════════════════════════════════════════════════════════════════════════
+
 elif page == "💰  Market Values":
     section_header("Market Value Analysis", "Actual vs predicted — who's over or undervalued?")
     df_mv = df_full_base.dropna(subset=["Market Value", "Predicted_Market_Value", "Value_Gap"]).copy()
@@ -1215,7 +1215,7 @@ elif page == "💰  Market Values":
 
     st.markdown("<div style='margin-top:1.5rem'></div>", unsafe_allow_html=True)
 
-    # ── TAB 1: Performance vs Market Value Quadrant (from notebooks) ───────
+    #  TAB 1: Performance vs Market Value Quadrant 
     tab_quad, tab_pred, tab_tables = st.tabs([
         "📊 Performance vs Value Quadrant",
         "🔵 Actual vs Predicted",
@@ -1319,9 +1319,9 @@ elif page == "💰  Market Values":
             st.dataframe(over, use_container_width=True, hide_index=True, height=420)
 
 
-# ══════════════════════════════════════════════════════════════════════════
-# PAGE 6 — PLAYER SIMILARITY  (new — from 04_scouting_and_similarity.ipynb)
-# ══════════════════════════════════════════════════════════════════════════
+#
+# PAGE 6 — PLAYER SIMILARITY  
+
 elif page == "🔁  Player Similarity":
     st.markdown(
         "<div style='padding:2rem 0 1.2rem 0;border-bottom:1px solid #1e2a38;margin-bottom:2rem'>"
@@ -1359,7 +1359,7 @@ elif page == "🔁  Player Similarity":
                                      default=[], key="sim_leagues")
         sim_leagues = sim_leagues if sim_leagues else None
 
-    # ── Stat selection for similarity ──────────────────────────────────────
+    #  Stat selection for similarity 
     with st.expander("⚙️ Customise similarity stats", expanded=False):
         all_feat_labels = {
             c: c.replace(" (Per90)", "/90").replace("Pass Completion Rate", "Pass%")
@@ -1377,7 +1377,7 @@ elif page == "🔁  Player Similarity":
             st.warning("Select at least 5 features for reliable similarity scoring.")
             selected_feats = FEATURE_COLS
 
-    # ── Radar stat selection ───────────────────────────────────────────────
+    #  Radar stat selection 
     with st.expander("📡 Customise radar chart stats", expanded=False):
         radar_opts = [m for m in RADAR_METRICS if m in df_all.columns]
         selected_radar = st.multiselect(
@@ -1392,7 +1392,7 @@ elif page == "🔁  Player Similarity":
 
     st.markdown("<div style='height:0.5rem'></div>", unsafe_allow_html=True)
 
-    # ── Run similarity ─────────────────────────────────────────────────────
+    #  Run similarity 
     ref_row, sim_df = find_similar_players(
         df_all,
         player_name      = sim_player,
@@ -1413,7 +1413,7 @@ elif page == "🔁  Player Similarity":
         st.warning("No similar players found with the current filters. Try relaxing the constraints.")
         st.stop()
 
-    # ── Reference player header ────────────────────────────────────────────
+    #  Reference player header 
     ref_pos    = ref_row.get("Position", "—")
     ref_role   = ref_row.get("Tactical_Role", ref_row.get("GK_Role", "—"))
     ref_team   = ref_row.get("Team", "—")
@@ -1444,7 +1444,7 @@ elif page == "🔁  Player Similarity":
         unsafe_allow_html=True
     )
 
-    # ── Two-column layout: Results + Radar ────────────────────────────────
+    #  Two-column layout: Results + Radar 
     left_col, right_col = st.columns([5, 4], gap="large")
 
     with left_col:
